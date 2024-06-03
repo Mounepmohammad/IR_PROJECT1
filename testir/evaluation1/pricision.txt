@@ -1,0 +1,429 @@
+Query: how much should i feed my 1 year old english mastiff?	precision: 0.2
+Query: are zebra loaches safe with shrimp?	precision: 0.4
+Query: are serpae tetras fin nippers?	precision: 0.2
+Query: do neon tetras eat shrimp?	precision: 0.1
+Query: how much should i feed my english mastiff?	precision: 0.2
+Query: is cat skin tougher than human skin?	precision: 0.1
+Query: how to tell the difference between a girl and boy bearded dragon?	precision: 0.1
+Query: can i put a goldfish in a 2 gallon tank?	precision: 0.1
+Query: will betta fish eat snails?	precision: 0.4
+Query: is my corn snake male or female?	precision: 0.1
+Query: can rabbits get e coli?	precision: 0.1
+Query: can i use pink himalayan salt in my aquarium?	precision: 0.1
+Query: is my corn snake overweight?	precision: 0.1
+Query: are some cats just skinny?	precision: 0.23333333
+Query: do betta fish eat snails?	precision: 0.4
+Query: are tiger barbs compatible with tetras?	precision: 0.1
+Query: can domestic cats survive in the wild?	precision: 0.322222222
+Query: are christmas trees poisonous to rats?	precision: 0.2
+Query: are deaf cats more aggressive?	precision: 0.1
+Query: can myiasis kill a dog?	precision: 0.1
+Query: does sugar make lemonade flat?	precision: 0.3
+Query: how to open a garage door without making noise?	precision: 0.222
+Query: are all lawn mower spark plugs the same?	precision: 0.1
+Query: what is the difference between potash and wood ash?	precision: 0.1
+Query: are blossom end rot tomatoes edible?	precision: 0.3
+Query: how moist should compost be?	precision: 0.222
+Query: what are the white spots on raspberries?	precision: 0.2233
+Query: why are the leaves on my pepper plant turning upside down?	precision: 0.3
+Query: are burnt leaves good fertilizer?	precision: 0.2333
+Query: why are my garden carrots white?	precision: 0.02222222
+Query: is azomite the same as diatomaceous earth?	precision: 0.3
+Query: are bleached coffee filters compostable?	precision: 0.1
+Query: do spruce trees need sunlight?	precision: 0.3
+Query: what is the difference between arugula and wild arugula?	precision: 0.1
+Query: are glass pots good for plants?	precision: 0.0111112
+Query: why are my parsnips woody?	precision: 0.1
+Query: do aloe vera plants die after flowering?	precision: 0.0
+Query: what are white spots on raspberries?	precision: 0.3
+Query: do booster seats need an anchor point?	precision: 0.1
+Query: do car booster seats need to be anchored?	precision: 0.1
+Query: are baby stimulation videos good?	precision: 0.222222
+Query: do booster seats need to be bolted in?	precision: 0.3
+Query: can you travel by car with a 1 month old baby?	precision: 0.1
+Query: is dreft tested on animals?	precision: 0.1
+Query: how often should a 1 year old go outside?	precision: 0.3
+Query: are booster seats without latch safe?	precision: 0.2
+Query: what age is best to start karate?	precision: 0.1
+Query: are booster seats supposed to be anchored?	precision: 0.1
+Query: can you use pva glue on balsa wood?	precision: 0.2
+Query: what is the difference between street art and outdoor murals?	precision: 0.2
+Query: what is the difference between carbon and charcoal pencils?	precision: 0.1
+Query: are cloaks warmer than coats?	precision: 0.2
+Query: are harvey maps any good?	precision: 0.3
+Query: how much water does a person need per day to survive?	precision: 0.03333334
+Query: what is the difference between alpaca wool and sheep wool?	precision: 0.4334
+Query: do robins appear all year round?	precision: 0.2
+Query: how much water do you need to survive each day?	precision: 0.3
+Query: is nalgene safe for hot water?	precision: 0.00032
+Query: what is the difference between white gas and kerosene?	precision: 0.3
+Query: are nylon pants good for hot weather?	precision: 0.2
+Query: are elk and deer color blind?	precision: 0.2
+Query: what is the difference between heat index and feels like temperature?	precision: 0.2
+Query: is ants safe to eat?	precision: 0.1
+Query: are ice grips any good?	precision: 0.1
+Query: what is the difference between front country and backcountry camping?	precision: 0.3
+Query: are packs of coyotes dangerous?	precision: 0.4
+Query: what is the difference between all mountain and freeride?	precision: 0.3
+Query: how to make homemade peanut butter less sticky?	precision: 0.3
+Query: what kind of coffee do you use in a coffee maker?	precision: 0.1
+Query: what kind of coffee do you use for tiramisu?	precision: 0.2
+Query: what is the difference between a percolator and an espresso maker?	precision: 0.2
+Query: what is the difference between breakfast blend and medium roast?	precision: 0.1
+Query: what kind of coffee do you put in a coffee maker?	precision: 0.1
+Query: how many cups in one pound of ground coffee?	precision: 0.1
+Query: is weasel coffee safe to drink?	precision: 0.1
+Query: how much caffeine in lavazza decaf espresso?	precision: 0.333333333
+Query: what is the difference between jacobs kronung and gold?	precision: 0.1
+Query: what are shots in coffee?	precision: 0.1
+Query: what is the difference between espresso and americano?	precision: 0.1
+Query: are all synths the same?	precision: 0.3
+Query: what is the difference between r&b and rock and roll?	precision: 0.3111111111
+Query: what is the difference between fender and squier?	precision: 0.2
+Query: what is the difference between major 2nd and minor 2nd?	precision: 0.0333
+Query: what is the difference between a scale and a mode?	precision: 0.3
+Query: are nylon and steel strings interchangeable?	precision: 0.1
+Query: what is the difference between musical meaning and function?	precision: 0.2
+Query: what are chairs in band?	precision: 0.2
+Query: is bpm the same as tempo?	precision: 0.1
+Query: are usb mics any good?	precision: 0.1
+Query: are all guitar capos the same?	precision: 0.1
+Query: are barre chords easier on electric guitar?	precision: 0.1
+Query: are there different capos for different guitars?	precision: 0.1
+Query: what is the difference between beat and pulse?	precision: 0.2
+Query: can a cajon replace a drum kit?	precision: 0.2
+Query: what are nylon tip drumsticks for?	precision: 0.3
+Query: are piano and guitar sheet music the same?	precision: 0.3
+Query: is midi better than usb?	precision: 0.1
+Query: what is the difference between a cover and a remix?	precision: 0.4
+Query: what is accented and unaccented beats?	precision: 0.1
+Query: what is the difference between a les paul standard and junior?	precision: 0.1
+Query: are phone guitar tuners good?	precision: 0.3
+Query: is guitar a c instrument?	precision: 0.3
+Query: are bpm and tempo the same?	precision: 0.1
+Query: is whammy bar bad for guitar?	precision: 0.3
+Query: is aeolian mode the same as minor?	precision: 0.1
+Query: can left handed play guitar?	precision: 0.3
+Query: what is the difference between musical notes?	precision: 0.3222222
+Query: how many octaves are there?	precision: 0.3
+Query: what is the difference between a scale and a key?	precision: 0.2
+Query: what is the difference between keys and scales?	precision: 0.2
+Query: what is the difference between pulse and beat in music?	precision: 0.2
+Query: what is the difference between music genre and music style?	precision: 0.3
+Query: are big hands good for guitar?	precision: 0.2
+Query: what are silk and steel guitar strings?	precision: 0.3
+Query: is a baritone a tuba?	precision: 0.3
+Query: can you use a guitar amp for ukulele?	precision: 0.3
+Query: what is the difference between time signatures?	precision: 0.3222
+Query: what are guitar scale patterns?	precision: 0.1
+Query: what does 3 2 in music mean?	precision: 0.3
+Query: what is the difference between mono stereo and surround sound?	precision: 0.3
+Query: what is the difference between pulse and beat?	precision: 0.2
+Query: is saxophone harder than clarinet?	precision: 0.1
+Query: can cold water make you lose your voice?	precision: 0.3
+Query: why a 7 string guitar?	precision: 0.1
+Query: is iv major in a minor key?	precision: 0.3
+Query: what is the difference between just intonation and equal temperament?	precision: 0.3
+Query: how long does it take to get used to guitar strings?	precision: 0.312222222
+Query: what is the difference between a key and a scale?	precision: 0.2
+Query: how can you tell the difference between notes with different pitches?	precision: 0.3
+Query: are jumbo frets harder to play?	precision: 0.2
+Query: what is the difference between fender and squire?	precision: 0.2
+Query: what is the difference between c major and d major?	precision: 0.3
+Query: are silk and steel strings good?	precision: 0.2111111111
+Query: are capos bad for guitars?	precision: 0.3
+Query: what are extra jumbo frets?	precision: 0.2
+Query: can euphonium play trombone part?	precision: 0.1
+Query: are electric pianos any good?	precision: 0.1
+Query: are digital pianos any good?	precision: 0.1
+Query: do sine waves have overtones?	precision: 0.0111111
+Query: do re mi equivalent a b c?	precision: 0.3
+Query: what is the difference between diminished and minor?	precision: 0.3
+Query: what is the difference between half diminished and fully diminished?	precision: 0.2
+Query: do accidentals apply to both clefs?	precision: 0.3
+Query: is fret buzz normal on bass?	precision: 0.2
+Query: is romex allowed in conduit?	precision: 0.011122
+Query: do you caulk j channel to window?	precision: 0.3
+Query: where is the pilot light on a magic chef gas oven?	precision: 0.3
+Query: are socket to outlet adapters safe?	precision: 0.093333
+Query: can you put 2 gfci on the same circuit?	precision: 0.0
+Query: are usb wall sockets always on?	precision: 0.0
+Query: are gfci required in kitchens?	precision: 0.0
+Query: are brass ball valves directional?	precision: 0.3
+Query: are apollo and sharkbite interchangeable?	precision: 0.0
+Query: are all led christmas lights dimmable?	precision: 0.3
+Query: can you install engineered hardwood floors over particle board?	precision: 0.3
+Query: can u put 2 stroke gas in a 4 stroke?	precision: 0.0
+Query: are electrical outlets on studs?	precision: 0.3
+Query: do isolation valves reduce water pressure?	precision: 0.3
+Query: do i need gfci in bedroom?	precision: 0.3
+Query: are ips and npt compatible?	precision: 0.3
+Query: are you supposed to sand after primer?	precision: 0.3
+Query: are all latex paints acrylic?	precision: 0.3
+Query: how to open a garage door from outside without remote?	precision: 0.3
+Query: what is the difference between water and sewage?	precision: 0.3
+Query: are dishwashers hardwired or plugged in?	precision: 0.322222
+Query: are furnace control boards interchangeable?	precision: 0.3
+Query: what is the difference between water and sewer?	precision: 0.355555
+Query: are dishwashers plugged in or hardwired?	precision: 0.0
+Query: is vinyl peel and stick waterproof?	precision: 0.1
+Query: why are heating ducts near windows?	precision: 0.3
+Query: what are the coals in a gas fire made of?	precision: 0.311111
+Query: is gas valve on or off?	precision: 0.3
+Query: how often should you clean ac drain line?	precision: 0.0333333
+Query: how many lumens per square foot basement?	precision: 0.2222
+Query: 3/8 bolt what size hole?	precision: 0.3
+Query: is all acrylic paint latex?	precision: 0.01111111
+Query: can thhn wire be used without conduit?	precision: 0.3
+Query: why do ac capacitors fail?	precision: 0.3
+Query: is sds same as sds plus?	precision: 0.000022
+Query: what is a gj union?	precision: 0.3
+Query: are long showers bad for septic systems?	precision: 0.122222
+Query: how to open garage door when remote is broken?	precision: 0.0
+Query: what is the difference between acrylic and vinyl paint?	precision: 0.3
+Query: can you put 2 layers of house wrap on?	precision: 0.0
+Query: are all dishwashers plug in?	precision: 0.3
+Query: what is the standard height and width of stairs?	precision: 0.3
+Query: are corded lawn mowers safe?	precision: 0.000043
+Query: are inverter generators pure sine wave?	precision: 0.3
+Query: can mcb protect from lightning?	precision: 0.3
+Query: can i put 2 cycle oil in a lawn mower?	precision: 0.3
+Query: why do portable air conditioners leak water?	precision: 0.3
+Query: do you need redgard on hardibacker?	precision: 0.000012
+Query: what is the difference between casing and base moulding?	precision: 0.3
+Query: what are ceramic coals made of?	precision: 0.3
+Query: do ac motors have polarity?	precision: 0.3
+Query: is it ok to run an empty refrigerator?	precision: 0.3
+Query: how to fix garage door chain not moving?	precision: 0.00044
+Query: do subpanels need a main breaker?	precision: 0.3
+Query: what is a 1 gang outlet?	precision: 0.3
+Query: have power to outlet but nothing works?	precision: 0.3
+Query: how many outlets can 1 gfci protect?	precision: 0.3
+Query: what tools do you need to change door locks?	precision: 0.3
+Query: is ips the same as npt?	precision: 0.3
+Query: are tv power cords in wall rated?	precision: 0.0
+Query: can xps foam board be painted?	precision: 0.3
+Query: are all plug sockets the same size?	precision: 0.0
+Query: do i need redgard on hardibacker?	precision: 0.3
+Query: are wago connectors ok for ring main?	precision: 0.3
+Query: how many mbh in a btu?	precision: 0.3
+Query: are dimmable lights 3 way?	precision: 0.3
+Query: can roxul be left exposed?	precision: 0.3
+Query: do risers go on before treads?	precision: 0.3
+Query: are solid core doors worth it?	precision: 0.3
+Query: can a dryer vent touch wood?	precision: 0.3
+Query: do aeration septic systems work?	precision: 0.00012
+Query: can mud go down the drain?	precision: 0.3
+Query: what is 250v 3 phase?	precision: 0.3
+Query: what are artificial coals made of?	precision: 0.3
+Query: are hdx tools any good?	precision: 0.3
+Query: are grounds and neutrals on the same bus?	precision: 0.333333
+Query: why are hvac vents under windows?	precision: 0.3
+Query: should you wear gloves when using a bandsaw?	precision: 0.32222222
+Query: are stick on tiles waterproof?	precision: 0.3
+Query: do doorbell transformers get hot?	precision: 0.3
+Query: what is the difference between input and output voltage?	precision: 0.3
+Query: is primer supposed to look streaky?	precision: 0.0002
+Query: are there garbage disposals in europe?	precision: 0.3
+Query: what is the difference between output power?	precision: 0.00000022
+Query: is load the same as common?	precision: 0.3
+Query: do stainless steel screws rust?	precision: 0.022
+Query: what is the difference between solid core and hollow core doors?	precision: 0.3
+Query: what is a switching neutral?	precision: 0.3
+Query: do saddle valves go bad?	precision: 0.1
+Query: how much freon is in a window air conditioner?	precision: 0.3
+Query: are splices allowed in breaker panel?	precision: 0.3
+Query: does sds plus fit sds?	precision: 0.0
+Query: can gfci receptacles be split?	precision: 0.3
+Query: do ac lines need to be insulated?	precision: 0.0
+Query: what does vsr drill mean?	precision: 0.1
+Query: what is the difference between low e and argon gas?	precision: 0.3
+Query: are led lights slow to turn on?	precision: 0.3
+Query: are slab floors cold in winter?	precision: 0.1
+Query: can you cut b vent?	precision: 0.3
+Query: can romex run through conduit?	precision: 0.0
+Query: can nm-b wire be used outdoors?	precision: 0.0
+Query: will gfci fix open ground?	precision: 0.3
+Query: do satellite dishes need power?	precision: 0.3
+Query: what bolts are rust proof?	precision: 0.21111
+Query: do welders need a neutral?	precision: 0.3
+Query: do i need redgard on cement board?	precision: 0.12222
+Query: is baking soda bad for drains?	precision: 0.3
+Query: how many inches between steps?	precision: 0.0
+Query: do switches need to be grounded?	precision: 0.111111
+Query: can gfci be wired in series?	precision: 0.011111
+Query: are bushings required on pvc conduit?	precision: 0.22222222223
+Query: are gfci required in bedrooms?	precision: 0.3
+Query: are gfci outlets required in finished basements?	precision: 0.0
+Query: what is the difference between sewer and water?	precision: 0.3
+Query: can gfci outlet be switched?	precision: 0.222222222
+Query: are green wire nuts required?	precision: 0.3
+Query: can you put 2 stroke in a lawn mower?	precision: 0.211111111
+Query: can outlets and lights be on the same circuit?	precision: 0.0
+Query: are built in dishwashers hardwired?	precision: 0.3
+Query: are there different amp gfci outlets?	precision: 0.00002
+Query: are large tiles more likely to crack?	precision: 0.3
+Query: do risers go on top of treads?	precision: 0.23332
+Query: do subpanels need to be grounded?	precision: 0.21111
+Query: do command strips hold up shelves?	precision: 0.3
+Query: do light switches have to be grounded?	precision: 0.12222222
+Query: can cfl bulbs be used in enclosed fixtures?	precision: 0.0
+Query: how many outlets on 1 gfci?	precision: 0.3
+Query: can you use two different brands of polyurethane?	precision: 0.003
+Query: are npt and ips the same thread size?	precision: 0.3
+Query: there are no studs in my wall?	precision: 0.00001
+Query: what is the difference between base and crown moulding?	precision: 0.3
+Query: what is the best temperature to set a dehumidifier?	precision: 0.0
+Query: what is the difference between pocket hole screws and regular screws?	precision: 0.3
+Query: what is the difference between acrylic and latex primer?	precision: 0.3
+Query: can kilz kill black mold?	precision: 0.0
+Query: are look keo cleats spd compatible?	precision: 0.3
+Query: do cycling gloves make a difference?	precision: 0.055554
+Query: are bike lights too bright?	precision: 0.1
+Query: are all bike seats interchangeable?	precision: 0.0
+Query: do shifters and derailleurs have to match?	precision: 0.3
+Query: what kind of chain do i need for my bike?	precision: 0.10002
+Query: are fixed gear bikes safe?	precision: 0.0
+Query: is wd40 a lubricant or degreaser?	precision: 0.1
+Query: why are cranksets so expensive?	precision: 0.022222
+Query: are fixed gear bikes dangerous?	precision: 0.0122
+Query: what are narrow wide chainrings?	precision: 0.3
+Query: what size chain do i need for my mountain bike?	precision: 0.3
+Query: can you see who visits your profile on strava?	precision: 0.3
+Query: are quick release skewers universal?	precision: 0.3
+Query: are road and mtb gear cables the same?	precision: 0.3
+Query: what gear should i leave my bike in?	precision: 0.055555555555
+Query: why are aero bars not allowed?	precision: 0.3
+Query: are back pedal brakes safe?	precision: 0.3
+Query: are gel saddles any good?	precision: 0.0444444
+Query: are gxp and hollowtech compatible?	precision: 0.3
+Query: are all freehubs the same size?	precision: 0.3
+Query: are look delta and spd sl compatible?	precision: 0.3
+Query: are shimano and sram 10 speed cassettes compatible?	precision: 0.3
+Query: how long to ride 20 km?	precision: 0.3
+Query: are bikes okay in the rain?	precision: 0.0
+Query: is gxp compatible with hollowtech?	precision: 0.3333333332
+Query: is a bike a vehicle?	precision: 0.3
+Query: why are some hubs louder than others?	precision: 0.0
+Query: are brake and shifter cables the same?	precision: 0.3
+Query: what is a category 5 climb?	precision: 0.1
+Query: tires that are nail proof?	precision: 0.3
+Query: are roads quieter on sundays?	precision: 0.01222222222222
+Query: are hub gears any good?	precision: 0.3
+Query: is 7 gears enough on a bike?	precision: 0.3
+Query: can any mtb tire be tubeless?	precision: 0.22222222222
+Query: are spd and spd sl compatible?	precision: 0.3
+Query: how long does it take to ride a bike 20 km?	precision: 0.333444
+Query: is 20 km h fast?	precision: 0.3
+Query: how long to bike 1 km?	precision: 0.22222222
+Query: how long does it take to get used to bike seat?	precision: 0.3
+Query: how long should you wait to open radiator cap?	precision: 0.1222222222
+Query: what is the difference between map and maf sensor?	precision: 0.3
+Query: what is the tyre pressure for low profile tyres?	precision: 0.3
+Query: can rod knock be fixed?	precision: 0.3
+Query: how much does it cost to recharge a car battery?	precision: 0.3
+Query: what are map and maf sensors?	precision: 0.33333332
+Query: are brake pads supposed to be loose?	precision: 0.2222222222
+Query: what happens if you drive car without water?	precision: 0.3
+Query: can i drive my car without a radiator?	precision: 0.0
+Query: can fix a flat freeze?	precision: 0.3
+Query: do dtc codes clear themselves?	precision: 0.0
+Query: can i use rtv with a gasket?	precision: 0.1
+Query: how much does it cost to charge a car battery at home?	precision: 0.3
+Query: can i use synthetic oil after using regular?	precision: 0.3
+Query: do automatic or manual transmissions last longer?	precision: 0.3
+Query: can you put an automatic car in neutral while driving?	precision: 0.99944
+Query: is jumpstarting a car safe?	precision: 0.3
+Query: can i use synthetic brake fluid in my car?	precision: 0.3
+Query: are all hybrids automatic transmission?	precision: 0.3
+Query: is brake fluid water soluble?	precision: 0.2222222
+Query: can i use rtv on thermostat housing?	precision: 0.0
+Query: will a bad starter drain battery?	precision: 0.3
+Query: do impact sockets make a difference?	precision: 0.111111111
+Query: is 44 psi too much?	precision: 0.3
+Query: where are fuses on renault scenic?	precision: 0.3
+Query: are crank and cam sensors the same?	precision: 0.3
+Query: what is the difference between long and short gears?	precision: 0.3
+Query: what is the difference between impact and regular sockets?	precision: 0.3
+Query: what happens if i drive my car in 3rd gear?	precision: 0.3
+Query: how much does diesel expand with temperature?	precision: 0.00002
+Query: how many amps does a vehicle use?	precision: 0.0
+Query: can c vs can ihs?	precision: 0.3
+Query: do automatic transmissions last longer than manual?	precision: 0.0
+Query: are valve cover gaskets reusable?	precision: 0.3
+Query: what is the difference between ac and max ac?	precision: 0.0
+Query: do rotors always need to be replaced with pads?	precision: 0.222222
+Query: how accurate are engine dynos?	precision: 0.3
+Query: is uv dye bad for coolant?	precision: 0.3
+Query: can i drive without a radiator?	precision: 0.0
+Query: does automatic transmission last longer than manual?	precision: 0.3
+Query: will dtc codes clear themselves?	precision: 0.555555554
+Query: why is fwd more efficient?	precision: 0.011111
+Query: what happens when you put transmission fluid in with your motor oil?	precision: 0.3
+Query: can hybrid batteries be tested?	precision: 0.0
+Query: can i drive my car after putting coolant?	precision: 0.3
+Query: how much water does an average radiator hold?	precision: 0.0
+Query: is wd40 ok to use on rubber?	precision: 0.00004
+Query: obd2 port has no power?	precision: 0.3
+Query: how long do you have to wait to put coolant in your car?	precision: 0.0
+Query: can i tow an automatic car in neutral?	precision: 0.3
+Query: how much hp does a power steering pump use?	precision: 0.0
+Query: what is the difference between a wet clutch and a dry clutch?	precision: 0.3
+Query: can subaru be flat towed?	precision: 0.3
+Query: are map and maf sensors the same?	precision: 0.3
+Query: rpms are jumping up and down?	precision: 0.222222222
+Query: are tires removed for alignment?	precision: 0.333
+Query: are any subaru's flat towable?	precision: 0.0
+Query: what is the difference between high and low octane gas?	precision: 0.3
+Query: are split cv boots good?	precision: 0.3
+Query: what is the difference between front and rear rotors?	precision: 0.3
+Query: are boxer engines hard to work on?	precision: 0.0333333
+Query: can i drive my car with a broken spark plug?	precision: 0.3
+Query: do amps matter on car battery?	precision: 0.3
+Query: do sway bars stiffer ride?	precision: 0.3
+Query: how many watts does it take to jump a car?	precision: 0.3
+Query: are trailer axles supposed to be bent?	precision: 0.3
+Query: can i use synthetic brake fluid?	precision: 0.3
+Query: can you put 2 batteries in a car?	precision: 0.3
+Query: how much air should i put in low profile tires?	precision: 0.3
+Query: can you use synthetic oil after using regular oil?	precision: 0.0
+Query: are obd scanners worth it?	precision: 0.0444444444
+Query: can i use rtv instead of a gasket?	precision: 0.1
+Query: what is the difference between cold cranking amps and amp hours?	precision: 0.3
+Query: do i bleed brakes with engine running?	precision: 0.1
+Query: when bleeding brakes should the car be on?	precision: 0.244444
+Query: how does automatic transmission park work?	precision: 0.333333333
+Query: what is the difference between spark plug types?	precision: 0.3
+Query: can you use rtv instead of a gasket?	precision: 0.1
+Query: what is the difference between ignition coil and direct ignition coil?	precision: 0.3
+Query: are all oil filter threads the same?	precision: 0.0
+Query: can you change only 1 spark plug?	precision: 0.3
+Query: what is the difference between synthetic brake fluid?	precision: 0.3
+Query: are chain driven cars good?	precision: 0.0
+Query: what happens when you drive your car in the wrong gear?	precision: 0.3
+Query: are blue dot tail lights legal?	precision: 0.3
+Query: is wd 40 safe for electrical connections?	precision: 0.0122222
+Query: do cheap jumper cables work?	precision: 0.3
+Query: are drum brakes cheaper than disc?	precision: 0.0
+Query: will a warped head cause low compression?	precision: 0.555
+Query: can i drive a car without a radiator?	precision: 0.3
+Query: can you ruin a manual transmission?	precision: 0.011112
+Query: do i add coolant with car running?	precision: 0.2222222
+Query: do hazard lights come on automatically?	precision: 0.44444444
+Query: is there a fuse for airbags?	precision: 0.1
+Query: what last longer manual or automatic transmission?	precision: 0.3333
+Query: how much does it cost to replace a scion tc engine?	precision: 0.45555
+Query: are both radiator hoses supposed to be hot?	precision: 0.0
+Query: is there a difference between red and clear power steering fluid?	precision: 0.22222
+AP: 0.2645083932853699
+Query: how much should i feed my 1 year old english mastiff?	precision: 0.2
+Query: are zebra loaches safe with shrimp?	precision: 0.4
+Query: are serpae tetras fin nippers?	precision: 0.2
+Query: do neon tetras eat shrimp?	precision: 0.1
+Query: how much should i feed my english mastiff?	precision: 0.2
+Query: is cat skin tougher than human skin?	precision: 0.1
+Query: how to tell the difference between a girl and boy bearded dragon?	precision: 0.1
+Query: can i put a goldfish in a 2 gallon tank?	precision: 0.1
+Query: will betta fish eat snails?	precision: 0.4
+Query: is my corn snake male or female?	precision: 0.1
+Query: can rabbits get e coli?	precision: 0.1

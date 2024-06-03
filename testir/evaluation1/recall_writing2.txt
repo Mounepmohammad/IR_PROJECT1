@@ -1,0 +1,35 @@
+Query: what is the difference between a college and an academy?	recall: 0.0
+Query: what is the best reply for excuse me?	recall: 0.0
+Query: have pp vs have been pp?	recall: 0.0
+Query: what is the difference between a hard drive and a hard disk?	recall: 0.0
+Query: how to say i am very interested in a job?	recall: 0.0
+Query: what is the difference between expression and idiom?	recall: 0.0
+Query: date and time are or is?	recall: 0.0
+Query: can you begin a sentence with while?	recall: 0.0
+Query: are descent and ancestry the same?	recall: 0.0
+Query: what is the difference between present continuous tense and past continuous tense?	recall: 0.0
+Query: what is the difference of world and universe?	recall: 0.0
+Query: is terse a negative word?	recall: 0.0
+Query: your attendance is a must meaning?	recall: 0.0
+Query: what is the difference between help and helps?	recall: 0.0
+Query: person who always blames someone else?	recall: 0.0
+Query: are double contractions grammatically correct?	recall: 0.0
+Query: do diligence or due diligence?	recall: 0.0
+Query: a man is a mortal?	recall: 0.0
+Query: what is the difference in usage between the words british and english?	recall: 0.0
+Query: what is the difference between type and print?	recall: 0.0
+Query: what is the difference between graphic and graphical?	recall: 0.0
+Query: have been or had been?	recall: 0.0
+Query: what is the difference between relation and relationship?	recall: 0.0
+Query: what is the difference between give in and give up?	recall: 0.0
+Query: are put in place meaning?	recall: 0.0
+Query: what is 1st 2nd and 3rd base in dating?	recall: 0.0
+Query: is to vs has to?	recall: 0.0
+Query: what is the difference between high and low notes?	recall: 0.0
+Query: what is the difference between good on you and good for you?	recall: 0.0
+Query: what is the difference between good noon and good afternoon?	recall: 0.0
+Query: what is the difference between the word god and lord?	recall: 0.0
+Query: what is the difference between particle and particulate?	recall: 0.0
+Query: are changed vs have changed?	recall: 0.0
+Query: what is the difference between bragging and boasting?	recall: 0.0
+Query: are semicolon and dash the same?	recall: 0.0

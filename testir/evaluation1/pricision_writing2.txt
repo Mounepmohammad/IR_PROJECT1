@@ -1,0 +1,35 @@
+Query: what is the difference between a college and an academy?	precision: 0.0
+Query: what is the best reply for excuse me?	precision: 0.0
+Query: have pp vs have been pp?	precision: 0.0
+Query: what is the difference between a hard drive and a hard disk?	precision: 0.0
+Query: how to say i am very interested in a job?	precision: 0.0
+Query: what is the difference between expression and idiom?	precision: 0.0
+Query: date and time are or is?	precision: 0.0
+Query: can you begin a sentence with while?	precision: 0.0
+Query: are descent and ancestry the same?	precision: 0.0
+Query: what is the difference between present continuous tense and past continuous tense?	precision: 0.0
+Query: what is the difference of world and universe?	precision: 0.0
+Query: is terse a negative word?	precision: 0.0
+Query: your attendance is a must meaning?	precision: 0.0
+Query: what is the difference between help and helps?	precision: 0.0
+Query: person who always blames someone else?	precision: 0.0
+Query: are double contractions grammatically correct?	precision: 0.0
+Query: do diligence or due diligence?	precision: 0.0
+Query: a man is a mortal?	precision: 0.0
+Query: what is the difference in usage between the words british and english?	precision: 0.0
+Query: what is the difference between type and print?	precision: 0.0
+Query: what is the difference between graphic and graphical?	precision: 0.0
+Query: have been or had been?	precision: 0.0
+Query: what is the difference between relation and relationship?	precision: 0.0
+Query: what is the difference between give in and give up?	precision: 0.0
+Query: are put in place meaning?	precision: 0.0
+Query: what is 1st 2nd and 3rd base in dating?	precision: 0.0
+Query: is to vs has to?	precision: 0.0
+Query: what is the difference between high and low notes?	precision: 0.0
+Query: what is the difference between good on you and good for you?	precision: 0.0
+Query: what is the difference between good noon and good afternoon?	precision: 0.0
+Query: what is the difference between the word god and lord?	precision: 0.0
+Query: what is the difference between particle and particulate?	precision: 0.0
+Query: are changed vs have changed?	precision: 0.0
+Query: what is the difference between bragging and boasting?	precision: 0.0
+Query: are semicolon and dash the same?	precision: 0.0

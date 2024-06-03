@@ -1,0 +1,501 @@
+Query: what is the difference between a college and an academy?	recall: 0.244
+Query: what is the best reply for excuse me?	recall: 0.0665
+Query: have pp vs have been pp?	recall: 0.19
+Query: what is the difference between a hard drive and a hard disk?	recall: 0.1115
+Query: how to say i am very interested in a job?	recall: 0.151
+Query: what is the difference between expression and idiom?	recall: 0.0955
+Query: date and time are or is?	recall: 0.3325
+Query: can you begin a sentence with while?	recall: 0.0515
+Query: are descent and ancestry the same?	recall: 0.3215
+Query: what is the difference between present continuous tense and past continuous tense?	recall: 0.309
+Query: what is the difference of world and universe?	recall: 0.016
+Query: is terse a negative word?	recall: 0.496
+Query: your attendance is a must meaning?	recall: 0.4975
+Query: what is the difference between help and helps?	recall: 0.414
+Query: person who always blames someone else?	recall: 0.034
+Query: are double contractions grammatically correct?	recall: 0.1835
+Query: do diligence or due diligence?	recall: 0.2305
+Query: a man is a mortal?	recall: 0.335
+Query: what is the difference in usage between the words british and english?	recall: 0.373
+Query: what is the difference between type and print?	recall: 0.2205
+Query: what is the difference between graphic and graphical?	recall: 0.0505
+Query: have been or had been?	recall: 0.2495
+Query: what is the difference between relation and relationship?	recall: 0.406
+Query: what is the difference between give in and give up?	recall: 0.1565
+Query: are put in place meaning?	recall: 0.019
+Query: what is 1st 2nd and 3rd base in dating?	recall: 0.2605
+Query: is to vs has to?	recall: 0.214
+Query: what is the difference between high and low notes?	recall: 0.145
+Query: what is the difference between good on you and good for you?	recall: 0.2935
+Query: what is the difference between good noon and good afternoon?	recall: 0.1765
+Query: what is the difference between the word god and lord?	recall: 0.1745
+Query: what is the difference between particle and particulate?	recall: 0.4745
+Query: are changed vs have changed?	recall: 0.039
+Query: what is the difference between bragging and boasting?	recall: 0.3865
+Query: are semicolon and dash the same?	recall: 0.4295
+Query: what is the difference between what and which?	recall: 0.062
+Query: is flustered a real word?	recall: 0.01
+Query: what is the difference of a few and few?	recall: 0.2395
+Query: do novels have to be fiction?	recall: 0.0935
+Query: are nomenclature and terminology the same?	recall: 0.0535
+Query: is 25 years half a century?	recall: 0.1535
+Query: what does it mean when someone is not in the mood?	recall: 0.3515
+Query: is it faq or faqs?	recall: 0.073
+Query: what is the difference between overwhelmed and whelmed?	recall: 0.0655
+Query: what is the difference between past continuous and present perfect?	recall: 0.2625
+Query: what is the difference between a living room and a parlor?	recall: 0.458
+Query: can x be a vowel?	recall: 0.4085
+Query: is the disk drive the hard drive?	recall: 0.139
+Query: what is the difference between the poor and the needy?	recall: 0.1495
+Query: what does it mean when someone says they want to do you?	recall: 0.2585
+Query: what is the difference between ledger and account?	recall: 0.0585
+Query: are afraid and fear the same thing?	recall: 0.008
+Query: what is the difference between concentration focus?	recall: 0.046
+Query: what is the difference between base and based?	recall: 0.3005
+Query: what is the difference between a motor and an engine in a car?	recall: 0.124
+Query: what is the difference between workout and exercise?	recall: 0.064
+Query: a man who has many lovers?	recall: 0.229
+Query: will the shades of pemberley be thus polluted?	recall: 0.1185
+Query: is layperson a derogatory term?	recall: 0.244
+Query: what is the difference of hypothetical and theoretical?	recall: 0.4935
+Query: is duh a bad word?	recall: 0.3265
+Query: do you mind if i response?	recall: 0.0945
+Query: what is the difference between enhanced and improved?	recall: 0.488
+Query: what is the difference between types and kinds?	recall: 0.041
+Query: are slacks and suit pants the same?	recall: 0.0915
+Query: what is it called when someone changes their mind a lot?	recall: 0.411
+Query: is anniversary just for marriage?	recall: 0.0595
+Query: are salty and savory the same?	recall: 0.421
+Query: how much is 15 hundred?	recall: 0.3
+Query: why are wolverhampton wanderers called wanderers?	recall: 0.112
+Query: are riding the hobby horse?	recall: 0.412
+Query: a guy who asks a lot of questions?	recall: 0.2155
+Query: what is the difference between working out and exercising?	recall: 0.2775
+Query: has told or had told?	recall: 0.3675
+Query: what is the difference between a cream and creme?	recall: 0.3755
+Query: what is the difference between a lip reader and a lipspeaker?	recall: 0.3685
+Query: is naff a swear word?	recall: 0.4605
+Query: how are circumference and perimeter different?	recall: 0.397
+Query: a guy who only cares about money?	recall: 0.1565
+Query: what is the difference of chest and trunk?	recall: 0.1705
+Query: what is the difference between excuse you and excuse me?	recall: 0.264
+Query: can obvious be used as a noun?	recall: 0.2225
+Query: are you angry at me meaning?	recall: 0.062
+Query: is lunch dinner or supper?	recall: 0.442
+Query: what are the layers of an onion?	recall: 0.3995
+Query: what is it called when you believe there is a higher power?	recall: 0.061
+Query: what is the difference between prison and jail uk?	recall: 0.0345
+Query: what is difference between leaving and going?	recall: 0.3295
+Query: what is difference between belief and trust?	recall: 0.34
+Query: what is the difference between stem and trunk?	recall: 0.493
+Query: is idioms and phrases are same?	recall: 0.4415
+Query: are phrases and idioms the same?	recall: 0.229
+Query: what is the meaning of the root word vi?	recall: 0.2575
+Query: what do slacks look like?	recall: 0.15
+Query: what is the difference between warranty and guarantee?	recall: 0.284
+Query: dedication and commitment are they the same?	recall: 0.0175
+Query: what is the difference between ideal and optimal?	recall: 0.346
+Query: what is the difference between sport play and game?	recall: 0.034
+Query: are you a mouse or a man?	recall: 0.2715
+Query: answer to how was it going?	recall: 0.0105
+Query: what is the difference between family name and last name?	recall: 0.2215
+Query: whom u want to talk?	recall: 0.428
+Query: is i personally correct grammar?	recall: 0.221
+Query: what is the difference between stand up?	recall: 0.469
+Query: whom to follow up with?	recall: 0.137
+Query: is toast countable or uncountable?	recall: 0.113
+Query: what is the difference between deputy and vice?	recall: 0.0465
+Query: what is the difference between of guarantee and warranty?	recall: 0.073
+Query: what are positive and negative questions?	recall: 0.29
+Query: is not a fan of meaning?	recall: 0.218
+Query: what is positive negative and neutral?	recall: 0.3595
+Query: are the shades of pemberley?	recall: 0.475
+Query: can you begin a sentence with regretfully?	recall: 0.072
+Query: is gosh a real word?	recall: 0.3245
+Query: to is preposition or not?	recall: 0.347
+Query: what is the difference between cunning and wily?	recall: 0.014
+Query: what is it called when you always want to be right?	recall: 0.4105
+Query: is no worries proper english?	recall: 0.455
+Query: what is the difference between indication and indicator?	recall: 0.1225
+Query: is these ones correct english?	recall: 0.4345
+Query: what is the difference between being selfish and self centered?	recall: 0.149
+Query: are speeches written in first person?	recall: 0.3925
+Query: has took or has taken?	recall: 0.2375
+Query: what is the difference between jargon and technical terminology?	recall: 0.2315
+Query: what is the difference between internet and online?	recall: 0.2845
+Query: is it grammatically correct to say thank you so very much?	recall: 0.333
+Query: what is the difference between single quotation marks and double quotation marks?	recall: 0.056
+Query: what is the difference between class and group?	recall: 0.3545
+Query: how to answer when someone ask how's it going?	recall: 0.203
+Query: what is the difference between a series and a season?	recall: 0.1355
+Query: what is the difference between cook and cooker?	recall: 0.1265
+Query: can you begin a sentence with nor?	recall: 0.3905
+Query: what does work me mean?	recall: 0.117
+Query: what is native level english?	recall: 0.2645
+Query: is nowadays formal or informal?	recall: 0.4205
+Query: what is the difference between sport game play competition and recreation?	recall: 0.099
+Query: can yesterday be an adverb?	recall: 0.438
+Query: what is the difference between possible and feasible?	recall: 0.1485
+Query: is exactly the same grammatically correct?	recall: 0.108
+Query: what is the difference between multi and multiple?	recall: 0.116
+Query: is it suppose to do or supposed to do?	recall: 0.002
+Query: what is the difference between time and times?	recall: 0.027
+Query: what is difference between powerless and helpless?	recall: 0.1115
+Query: what is it called when you want more?	recall: 0.172
+Query: what is it called when someone always disagrees?	recall: 0.418
+Query: is bfe a real place?	recall: 0.085
+Query: what is the difference between being practical and pragmatic?	recall: 0.309
+Query: what does it mean when you call someone your lover?	recall: 0.155
+Query: has pp has been pp?	recall: 0.103
+Query: what are the difference between type and category?	recall: 0.1585
+Query: what is the difference between miss and ma'am?	recall: 0.2945
+Query: what is the difference series or season?	recall: 0.0655
+Query: can you start a sentence with especially?	recall: 0.026
+Query: what is it called when someone always thinks negative?	recall: 0.11
+Query: would be vs will be?	recall: 0.252
+Query: what is a person that is always negative?	recall: 0.207
+Query: what are you doing in indirect speech?	recall: 0.3715
+Query: what is the difference between evangelical and evangelism?	recall: 0.222
+Query: what is the difference between met and meet?	recall: 0.133
+Query: has get or has got?	recall: 0.2665
+Query: are symbols and metaphors the same thing?	recall: 0.0975
+Query: is much singular or plural?	recall: 0.05
+Query: what is the difference between clean and clear?	recall: 0.253
+Query: what do you answer when someone says what's up?	recall: 0.31
+Query: 2 am is morning or night?	recall: 0.361
+Query: what is the difference between lunch and supper?	recall: 0.322
+Query: are you nuts meaning etymology?	recall: 0.1015
+Query: has got or has gotten?	recall: 0.0845
+Query: what is the difference between describe and explain?	recall: 0.446
+Query: what is the difference between target aim and goal?	recall: 0.3345
+Query: can you begin a sentence with furthermore?	recall: 0.1495
+Query: what is the difference between aim at and aim to?	recall: 0.0815
+Query: what does it mean when someone says you lot?	recall: 0.471
+Query: your attendance is of great importance?	recall: 0.279
+Query: what is the difference between phonetics and phonemics?	recall: 0.497
+Query: what is the difference between in and with?	recall: 0.1805
+Query: what is the difference between term and tenure?	recall: 0.0245
+Query: what does breaking hearts and taking names mean?	recall: 0.472
+Query: what is the difference between i don't mind and i don't care?	recall: 0.4365
+Query: what is the difference between man human and person?	recall: 0.4165
+Query: what is the difference between dominant and predominant?	recall: 0.1835
+Query: is 1 am considered morning or night?	recall: 0.207
+Query: what is the difference between an area and a zone?	recall: 0.2035
+Query: is milquetoast a bad word?	recall: 0.097
+Query: what is the difference between class and course?	recall: 0.2095
+Query: can especially start a sentence?	recall: 0.1475
+Query: all is or all are what is correct?	recall: 0.3865
+Query: what is the difference between the word little and small?	recall: 0.176
+Query: what are the difference between good and fine?	recall: 0.3775
+Query: why are they called ggs?	recall: 0.3875
+Query: what is difference between opacity and opaque?	recall: 0.2935
+Query: what is the difference of theory and theorem?	recall: 0.408
+Query: reply of hope you are doing great?	recall: 0.103
+Query: what are words with silent letters called?	recall: 0.307
+Query: i has been or i have been?	recall: 0.2245
+Query: what is the difference between genuine and original?	recall: 0.1985
+Query: is zealot a bad word?	recall: 0.47
+Query: what does it mean when someone asks what do you want from me?	recall: 0.07
+Query: can example be a verb?	recall: 0.3755
+Query: what does it mean when someone says i feel you?	recall: 0.201
+Query: is tushy an english word?	recall: 0.2425
+Query: is drink you under the table?	recall: 0.0495
+Query: what is the difference between single and double quotation marks?	recall: 0.412
+Query: are humble and modest synonyms?	recall: 0.087
+Query: what is the difference between slum and ghetto?	recall: 0.2305
+Query: is no capitalized in a title?	recall: 0.1505
+Query: what does it mean when someone says sweet surrender?	recall: 0.17
+Query: are you a man or a mouse?	recall: 0.0865
+Query: are opened or are open?	recall: 0.125
+Query: what is difference between magnitude and size?	recall: 0.2375
+Query: is as of late correct grammar?	recall: 0.26
+Query: surnames that are also words?	recall: 0.038
+Query: what is it called when someone is too skinny?	recall: 0.4725
+Query: what is the difference between labour and labourer?	recall: 0.0085
+Query: is enough or are enough?	recall: 0.2945
+Query: is it grammatically correct to say my bad?	recall: 0.1625
+Query: what the difference between group and community?	recall: 0.3195
+Query: who says otay in the little rascals?	recall: 0.4595
+Query: what is the difference between service and services?	recall: 0.03
+Query: why is awesome good and awful bad?	recall: 0.0605
+Query: are inflection and intonation the same?	recall: 0.1035
+Query: is g capital in god?	recall: 0.219
+Query: what is the difference between so far and by far?	recall: 0.0315
+Query: definition of someone who knows what they want?	recall: 0.334
+Query: is blatantly obvious grammatically correct?	recall: 0.112
+Query: what is difference between british and english?	recall: 0.0545
+Query: is gobbledygook a bad word?	recall: 0.1445
+Query: what is the difference between a grade and degree?	recall: 0.138
+Query: what is a series of two books called?	recall: 0.4955
+Query: do you eat or drink soup?	recall: 0.1705
+Query: what is the difference between purpose and aim in research?	recall: 0.4335
+Query: what is the difference between less and less than?	recall: 0.009
+Query: must of or must have?	recall: 0.464
+Query: is it gonna or gotta?	recall: 0.297
+Query: is i wonder a question?	recall: 0.3885
+Query: how are you doing vs how are you?	recall: 0.3385
+Query: you are thick in the head meaning?	recall: 0.3585
+Query: is 2 in the morning am or pm?	recall: 0.1035
+Query: is i plural or singular?	recall: 0.148
+Query: what is the biblical meaning of quiver?	recall: 0.4915
+Query: answer of do you mind?	recall: 0.274
+Query: what is the difference between pace and speed in running?	recall: 0.2365
+Query: has not or have not?	recall: 0.2005
+Query: is it x against y?	recall: 0.39
+Query: we have took or taken?	recall: 0.3405
+Query: answer of how do you do?	recall: 0.4425
+Query: is jibe a bad word?	recall: 0.456
+Query: what is the difference between a jacket and a coat?	recall: 0.2865
+Query: is bogus a formal word?	recall: 0.056
+Query: what is the meaning of first quality?	recall: 0.0055
+Query: can we begin a sentence with for?	recall: 0.0495
+Query: are tags and plates the same thing?	recall: 0.277
+Query: whom for non living things?	recall: 0.047
+Query: night 2 is am or pm?	recall: 0.0355
+Query: what is the difference between goal and target?	recall: 0.0385
+Query: what is the difference between article and research?	recall: 0.38
+Query: what is the difference between measure and measurement?	recall: 0.004
+Query: days of the week are nouns?	recall: 0.116
+Query: is it diner or cafe?	recall: 0.0575
+Query: what is the difference between sleeping and asleep?	recall: 0.1075
+Query: what is difference between warranty and guarantee?	recall: 0.1585
+Query: what are the difference between phonetics and phonemics?	recall: 0.007
+Query: what is the difference between limited and delimited?	recall: 0.2385
+Query: can you begin a sentence with hence?	recall: 0.2315
+Query: what is the difference between everyday and every other day?	recall: 0.1585
+Query: what is it called when you question your faith?	recall: 0.348
+Query: is spill the tea an idiom?	recall: 0.4845
+Query: what is the difference between canadian and american english?	recall: 0.3305
+Query: is it floor or level?	recall: 0.3705
+Query: is it grammatically correct to say both of?	recall: 0.309
+Query: what is the difference between overtones and undertones?	recall: 0.103
+Query: 2 into 4 is equal to?	recall: 0.3315
+Query: what is the difference between a catholic cathedral and a basilica?	recall: 0.446
+Query: what are acts or actions?	recall: 0.3595
+Query: what is the difference between job and employment?	recall: 0.2835
+Query: are ambition and dream the same?	recall: 0.0945
+Query: can you start a sentence with rather?	recall: 0.165
+Query: can you begin a sentence with during?	recall: 0.174
+Query: answer of hope you are doing good?	recall: 0.263
+Query: are lord and god the same thing?	recall: 0.293
+Query: what does the @ symbol mean before a name?	recall: 0.2205
+Query: x is plotted against y?	recall: 0.2
+Query: what is the difference between base form and infinitive?	recall: 0.4765
+Query: can you begin a sentence with due to?	recall: 0.0605
+Query: what is the difference between god and lord god?	recall: 0.259
+Query: what is the difference between have and did?	recall: 0.251
+Query: what does it mean when someone says what is your good name?	recall: 0.373
+Query: what is the difference between verse and stanza in poetry?	recall: 0.424
+Query: what is the difference between fair and just?	recall: 0.1955
+Query: what is the difference of geometric and geometrical?	recall: 0.353
+Query: answer of how is your study?	recall: 0.25
+Query: are days of the week adjectives?	recall: 0.0465
+Query: what is the difference between weight and heft?	recall: 0.094
+Query: what is the difference between owing to and due to?	recall: 0.3265
+Query: can you begin a sentence with myself?	recall: 0.0615
+Query: what is the difference between abstract and overview?	recall: 0.0345
+Query: how are you doing now meaning?	recall: 0.1605
+Query: have sb do or doing?	recall: 0.083
+Query: is it dads or dad’s?	recall: 0.1255
+Query: is owing to a preposition?	recall: 0.196
+Query: what is the difference between deputy director and associate director?	recall: 0.376
+Query: what is the difference between a wise man and a wise guy?	recall: 0.2365
+Query: what is the difference between a shepherd and a sheep herder?	recall: 0.445
+Query: are films and movies the same thing?	recall: 0.294
+Query: what is the difference between a jig and a template?	recall: 0.4575
+Query: is it which or what?	recall: 0.247
+Query: what is the difference between complex and complicated?	recall: 0.354
+Query: what is the difference between job work and occupation?	recall: 0.3525
+Query: what are the difference between man and human?	recall: 0.1575
+Query: what is the difference between a metropolis and a city?	recall: 0.2045
+Query: are toast a countable or uncountable noun?	recall: 0.107
+Query: is it often or ofen?	recall: 0.0385
+Query: where are u put up meaning?	recall: 0.4355
+Query: is trio singular or plural?	recall: 0.029
+Query: what is the difference between the parent and parents?	recall: 0.148
+Query: what is the difference between a legend and a key on a map?	recall: 0.494
+Query: is it grammatically correct to start a sentence with also?	recall: 0.168
+Query: my sins are endless meaning?	recall: 0.0905
+Query: neither nor are or is?	recall: 0.327
+Query: what is the difference between essential and quintessential?	recall: 0.148
+Query: what is the difference between cinema and theatre?	recall: 0.4095
+Query: i have just come or came?	recall: 0.18
+Query: are you upset with me or at me?	recall: 0.122
+Query: are or have been grammar?	recall: 0.278
+Query: are byproducts and waste products the same?	recall: 0.1195
+Query: is it grammatically correct to start a sentence with then?	recall: 0.22
+Query: are you based in london meaning?	recall: 0.2695
+Query: what is the difference between line and file?	recall: 0.17
+Query: are or is a range?	recall: 0.1655
+Query: is me personally correct grammar?	recall: 0.2755
+Query: why is bce and ce used?	recall: 0.0785
+Query: is thus the same as therefore?	recall: 0.2545
+Query: what is the difference between desktop background and wallpaper?	recall: 0.3355
+Query: is addicted a real word?	recall: 0.228
+Query: are engines and motors the same?	recall: 0.0475
+Query: answer of how is your life going?	recall: 0.1835
+Query: anybody can dance or everybody?	recall: 0.081
+Query: is a lot plural or singular?	recall: 0.351
+Query: is invalid a bad word?	recall: 0.079
+Query: what is the difference between church basilica and cathedral?	recall: 0.2235
+Query: what nationality are you if you are from afghanistan?	recall: 0.24
+Query: what does it mean when someone says good for you?	recall: 0.0435
+Query: how to answer the question what is your nationality?	recall: 0.1265
+Query: what does it mean when someone asks who are you?	recall: 0.2435
+Query: what is it called when you date someone younger?	recall: 0.4895
+Query: what is hash called in english?	recall: 0.003
+Query: what are you doing in reported speech?	recall: 0.293
+Query: what is the difference between jobs and occupations?	recall: 0.4515
+Query: what is the difference between usually and normally?	recall: 0.2465
+Query: is non existent one word?	recall: 0.062
+Query: what is difference between category and type?	recall: 0.0045
+Query: are lunch and dinner the same thing?	recall: 0.491
+Query: are vocation and mission related?	recall: 0.149
+Query: why do good things come in threes?	recall: 0.0965
+Query: what does it mean when someone questions everything?	recall: 0.3915
+Query: is pizza uncountable or countable?	recall: 0.179
+Query: are quite and quiet homophones?	recall: 0.4335
+Query: what does it mean when someone says my love?	recall: 0.2105
+Query: what is the difference between null and void?	recall: 0.089
+Query: is bravo an italian word?	recall: 0.312
+Query: are the shades of pemberley to be thus polluted analysis?	recall: 0.145
+Query: has written or had written?	recall: 0.475
+Query: what do you call a lovable person?	recall: 0.0865
+Query: what is the difference between a room and space?	recall: 0.3525
+Query: what does it mean when someone texts just a period?	recall: 0.129
+Query: what is the difference between personnel and employee?	recall: 0.458
+Query: can i use btw in email?	recall: 0.449
+Query: can whereas start a sentence?	recall: 0.1165
+Query: what is the difference between the word sell and sale?	recall: 0.2395
+Query: are admitted and accepted the same thing?	recall: 0.2775
+Query: how are empires different from kingdoms?	recall: 0.379
+Query: what is the difference between as of and as at?	recall: 0.4825
+Query: is not capitalized in a title?	recall: 0.3555
+Query: are issues and challenges the same?	recall: 0.4685
+Query: is juxtaposition and oxymoron the same?	recall: 0.327
+Query: is it grammatically correct to say done right?	recall: 0.107
+Query: is it madam or sir?	recall: 0.467
+Query: have forgot or have forgotten?	recall: 0.3585
+Query: what is the difference between the words enunciate and pronounce?	recall: 0.4215
+Query: what is the difference between girl and gurl?	recall: 0.1025
+Query: what is the difference between routine and programme in fitness?	recall: 0.3895
+Query: what is the difference between accounting and accountancy?	recall: 0.1925
+Query: why does pax mean person?	recall: 0.3305
+Query: is it grammatically correct to say on yesterday?	recall: 0.2425
+Query: can a guy have a maiden name?	recall: 0.224
+Query: what is the difference between fully and wholly?	recall: 0.412
+Query: period of 25 years is called?	recall: 0.389
+Query: what does it mean when someone says figures?	recall: 0.338
+Query: what is ganbatte ne in english?	recall: 0.411
+Query: do a film or make a film?	recall: 0.4675
+Query: what is the main similarity between the terms monologue and soliloquy?	recall: 0.063
+Query: a man who massage is called?	recall: 0.238
+Query: is uzi a proper noun?	recall: 0.1575
+Query: what is the difference between focus and concentration?	recall: 0.4015
+Query: what is the meaning of just for your information?	recall: 0.299
+Query: is it wholistic or holistic?	recall: 0.024
+Query: is nana and grandmother the same?	recall: 0.4955
+Query: are commas and dashes interchangeable?	recall: 0.498
+Query: what is the difference between routine and programme?	recall: 0.455
+Query: x does not a y make?	recall: 0.2135
+Query: what is the difference between currently and now?	recall: 0.3555
+Query: is unabashed a negative word?	recall: 0.3655
+Query: scent is the s or c silent?	recall: 0.3215
+Query: how to say you are interested in the position?	recall: 0.263
+Query: what is the meaning of just enough?	recall: 0.4595
+Query: what is the difference between oasis and oases?	recall: 0.32
+Query: is waste management a utility?	recall: 0.067
+Query: what the difference between society and humanity?	recall: 0.3535
+Query: are abc and bbc related?	recall: 0.191
+Query: what is the difference between official and officer?	recall: 0.1145
+Query: what is the difference between an image and a photo?	recall: 0.149
+Query: can obviously be a noun?	recall: 0.216
+Query: have skin in the game synonym?	recall: 0.316
+Query: is faq singular or plural?	recall: 0.3645
+Query: a man who provides massage professionally?	recall: 0.2735
+Query: what the difference between connection and connexion?	recall: 0.117
+Query: has finally come or came?	recall: 0.4775
+Query: are speed and rate the same?	recall: 0.2335
+Query: what are the pink elephant in the room?	recall: 0.4435
+Query: what is the difference between the middle and center?	recall: 0.164
+Query: what is the difference between a power drill and a power screwdriver?	recall: 0.213
+Query: are aim and purpose the same?	recall: 0.3245
+Query: what is not to love about you?	recall: 0.2095
+Query: a period of 25 years is called?	recall: 0.1585
+Query: what is the best reply to get well soon?	recall: 0.121
+Query: at your earliest convenience is it rude?	recall: 0.2545
+Query: are grammar and spelling the same thing?	recall: 0.218
+Query: toyota cars are made in japan grammar?	recall: 0.131
+Query: how are perimeter and circumference related?	recall: 0.2825
+Query: what is the difference between past participle and gerund?	recall: 0.424
+Query: are starters and appetizers the same thing?	recall: 0.262
+Query: is naff a bad word?	recall: 0.012
+Query: are lb and lbs the same?	recall: 0.1385
+Query: what is the difference between did you and have you?	recall: 0.3905
+Query: what is the difference between equal and equitable?	recall: 0.41
+Query: what are the semi vowels in english alphabet?	recall: 0.3645
+Query: have an ax to grind origin?	recall: 0.4535
+Query: fish is it countable or uncountable?	recall: 0.003
+Query: what is the difference between single and double parentheses?	recall: 0.0675
+Query: what is the difference between wind speed and wind velocity?	recall: 0.2015
+Query: is ta in the oxford dictionary?	recall: 0.059
+Query: how to reply when someone says get well soon?	recall: 0.0415
+Query: what does it mean when a man says you belong to me?	recall: 0.1635
+Query: what is the difference between isolated and insulated?	recall: 0.2175
+Query: what does it mean when someone calls you sunshine?	recall: 0.4975
+Query: is a verb a predicate?	recall: 0.419
+Query: what are nouns with pictures?	recall: 0.1815
+Query: is chief executive officer capitalized?	recall: 0.189
+Query: is alright better than okay?	recall: 0.4435
+Query: what are semi vowel letters?	recall: 0.017
+Query: i have just eaten or i just ate?	recall: 0.2815
+Query: is fewer more or less?	recall: 0.0905
+Query: what is the difference between conversion and transformation sentence?	recall: 0.349
+Query: is it grammatically correct to say thank you so much?	recall: 0.2065
+Query: what is the difference between media and press?	recall: 0.3875
+Query: why yep instead of yes?	recall: 0.329
+Query: is asinine a bad word?	recall: 0.4165
+Query: what is the difference between a wedding ceremony and a marriage ceremony?	recall: 0.2705
+Query: do u say happy halloween?	recall: 0.387
+Query: what are animals and humans called?	recall: 0.2065
+Query: is fruit uncountable or countable?	recall: 0.222
+Query: what are the differences between cinema and theatre?	recall: 0.0195
+Query: what is difference between now and currently?	recall: 0.4505
+Query: do you plot x against y?	recall: 0.3945
+Query: is it begin or start?	recall: 0.092
+Query: can neither be used for three?	recall: 0.381
+Query: a man who cheats is called?	recall: 0.432
+Query: why are cuss words 4 letters?	recall: 0.0355
+Query: a person who swears a lot?	recall: 0.334
+Query: what does it mean when someone says i'm good?	recall: 0.205
+Query: what is the difference between light off and light out?	recall: 0.2645
+Query: what is the difference between best and better?	recall: 0.1345
+Query: what is the difference between native language and mother tongue?	recall: 0.4445
+Query: is 11 am early afternoon?	recall: 0.2375
+Query: human resources are or is?	recall: 0.321
+Query: is god a plural or singular?	recall: 0.095
+Query: what does it mean when someone says i just love you?	recall: 0.204
+Query: what is the difference between what about you and how about you?	recall: 0.312
+Query: 25 years old is called?	recall: 0.2545
+Query: what does it mean when someone just puts a period?	recall: 0.1785
+Query: what is the difference between leave and go?	recall: 0.202
+Query: what is the difference between degree and grade?	recall: 0.2235
+Query: am is are was were will be?	recall: 0.2595
+Query: do i italicize company names?	recall: 0.1805
+Query: are currently or currently are?	recall: 0.2745
+Query: can you begin a sentence with guess?	recall: 0.0335
+Query: are oval and circle the same?	recall: 0.273
+Query: is it ivys or ivies?	recall: 0.053
+Query: are dignity and respect the same thing?	recall: 0.1545
+Query: is gasp an example of onomatopoeia?	recall: 0.267
+Query: what does it mean when a guy says no pressure?	recall: 0.016
+Query: is wtf an acronym or initialism?	recall: 0.1195
+Query: what is the difference between retro and vintage style?	recall: 0.209
+Query: what is the difference between one quotation mark and two?	recall: 0.4495
+Query: what are bold and italics examples of?	recall: 0.07
+Query: what is the difference between a public figure and a celebrity?	recall: 0.2575
+Query: is it holidays or holiday's?	recall: 0.3835
+Query: are appetizers and starters the same thing?	recall: 0.0095
+Query: are plot and storyline the same thing?	recall: 0.278
+Query: are either of you grammar?	recall: 0.295
+MRR: 0.23799099999999987

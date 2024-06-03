@@ -1,0 +1,35 @@
+Query: what is the difference between a college and an academy?	map_score: 0.0
+Query: what is the best reply for excuse me?	map_score: 0.0
+Query: have pp vs have been pp?	map_score: 0.0
+Query: what is the difference between a hard drive and a hard disk?	map_score: 0.0
+Query: how to say i am very interested in a job?	map_score: 0.0
+Query: what is the difference between expression and idiom?	map_score: 0.0
+Query: date and time are or is?	map_score: 0.0
+Query: can you begin a sentence with while?	map_score: 0.0
+Query: are descent and ancestry the same?	map_score: 0.0
+Query: what is the difference between present continuous tense and past continuous tense?	map_score: 0.0
+Query: what is the difference of world and universe?	map_score: 0.0
+Query: is terse a negative word?	map_score: 0.0
+Query: your attendance is a must meaning?	map_score: 0.0
+Query: what is the difference between help and helps?	map_score: 0.0
+Query: person who always blames someone else?	map_score: 0.0
+Query: are double contractions grammatically correct?	map_score: 0.0
+Query: do diligence or due diligence?	map_score: 0.0
+Query: a man is a mortal?	map_score: 0.0
+Query: what is the difference in usage between the words british and english?	map_score: 0.0
+Query: what is the difference between type and print?	map_score: 0.0
+Query: what is the difference between graphic and graphical?	map_score: 0.0
+Query: have been or had been?	map_score: 0.0
+Query: what is the difference between relation and relationship?	map_score: 0.0
+Query: what is the difference between give in and give up?	map_score: 0.0
+Query: are put in place meaning?	map_score: 0.0
+Query: what is 1st 2nd and 3rd base in dating?	map_score: 0.0
+Query: is to vs has to?	map_score: 0.0
+Query: what is the difference between high and low notes?	map_score: 0.0
+Query: what is the difference between good on you and good for you?	map_score: 0.0
+Query: what is the difference between good noon and good afternoon?	map_score: 0.0
+Query: what is the difference between the word god and lord?	map_score: 0.0
+Query: what is the difference between particle and particulate?	map_score: 0.0
+Query: are changed vs have changed?	map_score: 0.0
+Query: what is the difference between bragging and boasting?	map_score: 0.0
+Query: are semicolon and dash the same?	map_score: 0.0

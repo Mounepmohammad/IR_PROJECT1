@@ -1,0 +1,429 @@
+Query: how much should i feed my 1 year old english mastiff?	recall: 0.4
+Query: are zebra loaches safe with shrimp?	recall: 0.8
+Query: are serpae tetras fin nippers?	recall: 0.5
+Query: do neon tetras eat shrimp?	recall: 1.0
+Query: how much should i feed my english mastiff?	recall: 0.4
+Query: is cat skin tougher than human skin?	recall: 1.0
+Query: how to tell the difference between a girl and boy bearded dragon?	recall: 0.5
+Query: can i put a goldfish in a 2 gallon tank?	recall: 0.25
+Query: will betta fish eat snails?	recall: 0.5
+Query: is my corn snake male or female?	recall: 0.5
+Query: can rabbits get e coli?	recall: 0.5
+Query: can i use pink himalayan salt in my aquarium?	recall: 1.0
+Query: is my corn snake overweight?	recall: 1.0
+Query: are some cats just skinny?	recall: 0.2
+Query: do betta fish eat snails?	recall: 0.5
+Query: are tiger barbs compatible with tetras?	recall: 1.0
+Query: can domestic cats survive in the wild?	recall: 0.2
+Query: are christmas trees poisonous to rats?	recall: 0.2
+Query: are deaf cats more aggressive?	recall: 0.3333333333333333
+Query: can myiasis kill a dog?	recall: 1.0
+Query: does sugar make lemonade flat?	recall: 0.2
+Query: how to open a garage door without making noise?	recall: 0.2
+Query: are all lawn mower spark plugs the same?	recall: 1.0
+Query: what is the difference between potash and wood ash?	recall: 1.0
+Query: are blossom end rot tomatoes edible?	recall: 0.01111111
+Query: how moist should compost be?	recall: 0.2
+Query: what are the white spots on raspberries?	recall: 0.2
+Query: why are the leaves on my pepper plant turning upside down?	recall: 0.2
+Query: are burnt leaves good fertilizer?	recall: 0.2
+Query: why are my garden carrots white?	recall: 0.0
+Query: is azomite the same as diatomaceous earth?	recall: 0.2
+Query: are bleached coffee filters compostable?	recall: 0.14285714285714285
+Query: do spruce trees need sunlight?	recall: 0.75
+Query: what is the difference between arugula and wild arugula?	recall: 1.0
+Query: are glass pots good for plants?	recall: 0.2
+Query: why are my parsnips woody?	recall: 0.5
+Query: do aloe vera plants die after flowering?	recall: 0.2
+Query: what are white spots on raspberries?	recall: 0.2
+Query: do booster seats need an anchor point?	recall: 0.5
+Query: do car booster seats need to be anchored?	recall: 0.5
+Query: are baby stimulation videos good?	recall: 0.2
+Query: do booster seats need to be bolted in?	recall: 0.2
+Query: can you travel by car with a 1 month old baby?	recall: 0.16666666666666666
+Query: is dreft tested on animals?	recall: 0.3333333333333333
+Query: how often should a 1 year old go outside?	recall: 0.2
+Query: are booster seats without latch safe?	recall: 1.0
+Query: what age is best to start karate?	recall: 0.1
+Query: are booster seats supposed to be anchored?	recall: 0.5
+Query: can you use pva glue on balsa wood?	recall: 1.0
+Query: what is the difference between street art and outdoor murals?	recall: 1.0
+Query: what is the difference between carbon and charcoal pencils?	recall: 1.0
+Query: are cloaks warmer than coats?	recall: 1.0
+Query: are harvey maps any good?	recall: 1.0
+Query: how much water does a person need per day to survive?	recall: 0.2
+Query: what is the difference between alpaca wool and sheep wool?	recall: 1.0
+Query: do robins appear all year round?	recall: 1.0
+Query: how much water do you need to survive each day?	recall: 0.2
+Query: is nalgene safe for hot water?	recall: 0.6
+Query: what is the difference between white gas and kerosene?	recall: 0.2
+Query: are nylon pants good for hot weather?	recall: 1.0
+Query: are elk and deer color blind?	recall: 0.6666666666666666
+Query: what is the difference between heat index and feels like temperature?	recall: 0.6666666666666666
+Query: is ants safe to eat?	recall: 1.0
+Query: are ice grips any good?	recall: 0.14285714285714285
+Query: what is the difference between front country and backcountry camping?	recall: 0.75
+Query: are packs of coyotes dangerous?	recall: 0.5714285714285714
+Query: what is the difference between all mountain and freeride?	recall: 0.2
+Query: how to make homemade peanut butter less sticky?	recall: 0.2
+Query: what kind of coffee do you use in a coffee maker?	recall: 0.5
+Query: what kind of coffee do you use for tiramisu?	recall: 1.0
+Query: what is the difference between a percolator and an espresso maker?	recall: 1.0
+Query: what is the difference between breakfast blend and medium roast?	recall: 1.0
+Query: what kind of coffee do you put in a coffee maker?	recall: 0.5
+Query: how many cups in one pound of ground coffee?	recall: 0.5
+Query: is weasel coffee safe to drink?	recall: 0.25
+Query: how much caffeine in lavazza decaf espresso?	recall: 0.2
+Query: what is the difference between jacobs kronung and gold?	recall: 1.0
+Query: what are shots in coffee?	recall: 0.5
+Query: what is the difference between espresso and americano?	recall: 1.0
+Query: are all synths the same?	recall: 0.2
+Query: what is the difference between r&b and rock and roll?	recall: 0.2
+Query: what is the difference between fender and squier?	recall: 0.3333333333333333
+Query: what is the difference between major 2nd and minor 2nd?	recall: 0.2
+Query: what is the difference between a scale and a mode?	recall: 0.21428571428571427
+Query: are nylon and steel strings interchangeable?	recall: 0.16666666666666666
+Query: what is the difference between musical meaning and function?	recall: 0.4
+Query: what are chairs in band?	recall: 0.5
+Query: is bpm the same as tempo?	recall: 0.3333333333333333
+Query: are usb mics any good?	recall: 0.3333333333333333
+Query: are all guitar capos the same?	recall: 0.5
+Query: are barre chords easier on electric guitar?	recall: 0.05555555555555555
+Query: are there different capos for different guitars?	recall: 0.5
+Query: what is the difference between beat and pulse?	recall: 0.5
+Query: can a cajon replace a drum kit?	recall: 0.5
+Query: what are nylon tip drumsticks for?	recall: 1.0
+Query: are piano and guitar sheet music the same?	recall: 0.42857142857142855
+Query: is midi better than usb?	recall: 0.5
+Query: what is the difference between a cover and a remix?	recall: 1.0
+Query: what is accented and unaccented beats?	recall: 1.0
+Query: what is the difference between a les paul standard and junior?	recall: 0.5
+Query: are phone guitar tuners good?	recall: 0.2
+Query: is guitar a c instrument?	recall: 0.2
+Query: are bpm and tempo the same?	recall: 0.3333333333333333
+Query: is whammy bar bad for guitar?	recall: 0.2
+Query: is aeolian mode the same as minor?	recall: 0.2
+Query: can left handed play guitar?	recall: 0.23076923076923078
+Query: what is the difference between musical notes?	recall: 0.2
+Query: how many octaves are there?	recall: 0.2
+Query: what is the difference between a scale and a key?	recall: 0.5
+Query: what is the difference between keys and scales?	recall: 0.5
+Query: what is the difference between pulse and beat in music?	recall: 0.0000000000022
+Query: what is the difference between music genre and music style?	recall: 0.75
+Query: are big hands good for guitar?	recall: 0.3333333333333333
+Query: what are silk and steel guitar strings?	recall: 1.0
+Query: is a baritone a tuba?	recall: 0.2
+Query: can you use a guitar amp for ukulele?	recall: 0.2
+Query: what is the difference between time signatures?	recall: 0.2
+Query: what are guitar scale patterns?	recall: 0.25
+Query: what does 3 2 in music mean?	recall: 0.2
+Query: what is the difference between mono stereo and surround sound?	recall: 0.2
+Query: what is the difference between pulse and beat?	recall: 0.5
+Query: is saxophone harder than clarinet?	recall: 0.16666666666666666
+Query: can cold water make you lose your voice?	recall: 0.2
+Query: why a 7 string guitar?	recall: 0.25
+Query: is iv major in a minor key?	recall: 0.2
+Query: what is the difference between just intonation and equal temperament?	recall: 0.2
+Query: how long does it take to get used to guitar strings?	recall: 0.2
+Query: what is the difference between a key and a scale?	recall: 0.5
+Query: how can you tell the difference between notes with different pitches?	recall: 0.2
+Query: are jumbo frets harder to play?	recall: 0.6666666666666666
+Query: what is the difference between fender and squire?	recall: 0.3333333333333333
+Query: what is the difference between c major and d major?	recall: 0.2
+Query: are silk and steel strings good?	recall: 1.0
+Query: are capos bad for guitars?	recall: 0.2
+Query: what are extra jumbo frets?	recall: 0.6666666666666666
+Query: can euphonium play trombone part?	recall: 1.0
+Query: are electric pianos any good?	recall: 0.25
+Query: are digital pianos any good?	recall: 0.25
+Query: do sine waves have overtones?	recall: 0.2
+Query: do re mi equivalent a b c?	recall: 0.2
+Query: what is the difference between diminished and minor?	recall: 0.2
+Query: what is the difference between half diminished and fully diminished?	recall: 0.6666666666666666
+Query: do accidentals apply to both clefs?	recall: 0.2
+Query: is fret buzz normal on bass?	recall: 0.4
+Query: is romex allowed in conduit?	recall: 0.2
+Query: do you caulk j channel to window?	recall: 0.0
+Query: where is the pilot light on a magic chef gas oven?	recall: 0.0
+Query: are socket to outlet adapters safe?	recall: 0.34666666
+Query: can you put 2 gfci on the same circuit?	recall: 0.122222222
+Query: are usb wall sockets always on?	recall: 0.0111
+Query: are gfci required in kitchens?	recall: 0.2
+Query: are brass ball valves directional?	recall: 0.2
+Query: are apollo and sharkbite interchangeable?	recall: 0.0
+Query: are all led christmas lights dimmable?	recall: 0.1222222222
+Query: can you install engineered hardwood floors over particle board?	recall: 0.2
+Query: can u put 2 stroke gas in a 4 stroke?	recall: 0.2
+Query: are electrical outlets on studs?	recall: 0.0
+Query: do isolation valves reduce water pressure?	recall: 0.3333333
+Query: do i need gfci in bedroom?	recall: 0.222222222
+Query: are ips and npt compatible?	recall: 0.2
+Query: are you supposed to sand after primer?	recall: 0.01111111
+Query: are all latex paints acrylic?	recall: 0.2
+Query: how to open a garage door from outside without remote?	recall: 0.2
+Query: what is the difference between water and sewage?	recall: 0.2
+Query: are dishwashers hardwired or plugged in?	recall: 0.2
+Query: are furnace control boards interchangeable?	recall: 0.0
+Query: what is the difference between water and sewer?	recall: 0.01222222
+Query: are dishwashers plugged in or hardwired?	recall: 0.0
+Query: is vinyl peel and stick waterproof?	recall: 0.5
+Query: why are heating ducts near windows?	recall: 0.0222211
+Query: what are the coals in a gas fire made of?	recall: 0.0
+Query: is gas valve on or off?	recall: 0.5
+Query: how often should you clean ac drain line?	recall: 0.2
+Query: how many lumens per square foot basement?	recall: 0.5
+Query: 3/8 bolt what size hole?	recall: 0.2
+Query: is all acrylic paint latex?	recall: 0.0
+Query: can thhn wire be used without conduit?	recall: 0.0
+Query: why do ac capacitors fail?	recall: 0.122
+Query: is sds same as sds plus?	recall: 0.0
+Query: what is a gj union?	recall: 0.0
+Query: are long showers bad for septic systems?	recall: 0.0
+Query: how to open garage door when remote is broken?	recall: 0.2110
+Query: what is the difference between acrylic and vinyl paint?	recall: 0.021111
+Query: can you put 2 layers of house wrap on?	recall: 0.2
+Query: are all dishwashers plug in?	recall: 0.2
+Query: what is the standard height and width of stairs?	recall: 0.2
+Query: are corded lawn mowers safe?	recall: 0.2
+Query: are inverter generators pure sine wave?	recall: 0.0
+Query: can mcb protect from lightning?	recall: 0.2
+Query: can i put 2 cycle oil in a lawn mower?	recall: 0.2
+Query: why do portable air conditioners leak water?	recall: 0.0
+Query: do you need redgard on hardibacker?	recall: 0.2
+Query: what is the difference between casing and base moulding?	recall: 0.2
+Query: what are ceramic coals made of?	recall: 0.0
+Query: do ac motors have polarity?	recall: 0.2
+Query: is it ok to run an empty refrigerator?	recall: 0.0
+Query: how to fix garage door chain not moving?	recall: 0.2
+Query: do subpanels need a main breaker?	recall: 0.0
+Query: what is a 1 gang outlet?	recall: 0.2
+Query: have power to outlet but nothing works?	recall: 0.12222222222
+Query: how many outlets can 1 gfci protect?	recall: 0.022
+Query: what tools do you need to change door locks?	recall: 0.2
+Query: is ips the same as npt?	recall: 0.122222
+Query: are tv power cords in wall rated?	recall: 0.2
+Query: can xps foam board be painted?	recall: 0.0021
+Query: are all plug sockets the same size?	recall: 0.2
+Query: do i need redgard on hardibacker?	recall: 0.1111
+Query: are wago connectors ok for ring main?	recall: 0.2
+Query: how many mbh in a btu?	recall: 0.1
+Query: are dimmable lights 3 way?	recall: 0.3
+Query: can roxul be left exposed?	recall: 0.2
+Query: do risers go on before treads?	recall: 0.0
+Query: are solid core doors worth it?	recall: 0.3
+Query: can a dryer vent touch wood?	recall: 0.2
+Query: do aeration septic systems work?	recall: 0.2
+Query: can mud go down the drain?	recall: 0.3
+Query: what is 250v 3 phase?	recall: 0.2
+Query: what are artificial coals made of?	recall: 0.0
+Query: are hdx tools any good?	recall: 0.3
+Query: are grounds and neutrals on the same bus?	recall: 0.0
+Query: why are hvac vents under windows?	recall: 0.0005
+Query: should you wear gloves when using a bandsaw?	recall: 0.2
+Query: are stick on tiles waterproof?	recall: 0.2
+Query: do doorbell transformers get hot?	recall: 0.12222
+Query: what is the difference between input and output voltage?	recall: 0.0
+Query: is primer supposed to look streaky?	recall: 0.0
+Query: are there garbage disposals in europe?	recall: 0.2
+Query: what is the difference between output power?	recall: 0.2333
+Query: is load the same as common?	recall: 0.10000
+Query: do stainless steel screws rust?	recall: 0.2
+Query: what is the difference between solid core and hollow core doors?	recall: 0.0
+Query: what is a switching neutral?	recall: 0.023333
+Query: do saddle valves go bad?	recall: 0.25
+Query: how much freon is in a window air conditioner?	recall: 0.222
+Query: are splices allowed in breaker panel?	recall: 0.2
+Query: does sds plus fit sds?	recall: 0.0
+Query: can gfci receptacles be split?	recall: 0.233
+Query: do ac lines need to be insulated?	recall: 0.0
+Query: what does vsr drill mean?	recall: 0.3333333333333333
+Query: what is the difference between low e and argon gas?	recall: 0.2
+Query: are led lights slow to turn on?	recall: 0.00222
+Query: are slab floors cold in winter?	recall: 0.5
+Query: can you cut b vent?	recall: 0.2
+Query: can romex run through conduit?	recall: 0.2
+Query: can nm-b wire be used outdoors?	recall: 0.0
+Query: will gfci fix open ground?	recall: 0.2
+Query: do satellite dishes need power?	recall: 0.100
+Query: what bolts are rust proof?	recall: 0.30
+Query: do welders need a neutral?	recall: 0.120
+Query: do i need redgard on cement board?	recall: 0.2100
+Query: is baking soda bad for drains?	recall: 0.1
+Query: how many inches between steps?	recall: 0.3210
+Query: do switches need to be grounded?	recall: 0.100
+Query: can gfci be wired in series?	recall: 0.2
+Query: are bushings required on pvc conduit?	recall: 0.23333
+Query: are gfci required in bedrooms?	recall: 0.011111
+Query: are gfci outlets required in finished basements?	recall: 0.0
+Query: what is the difference between sewer and water?	recall: 0.2
+Query: can gfci outlet be switched?	recall: 0.23222
+Query: are green wire nuts required?	recall: 0.22
+Query: can you put 2 stroke in a lawn mower?	recall: 0.2
+Query: can outlets and lights be on the same circuit?	recall: 0.1
+Query: are built in dishwashers hardwired?	recall: 0.193
+Query: are there different amp gfci outlets?	recall: 0.290
+Query: are large tiles more likely to crack?	recall: 0.1000
+Query: do risers go on top of treads?	recall: 0.126
+Query: do subpanels need to be grounded?	recall: 0.2
+Query: do command strips hold up shelves?	recall: 0.133333
+Query: do light switches have to be grounded?	recall: 0.2
+Query: can cfl bulbs be used in enclosed fixtures?	recall: 0.0
+Query: how many outlets on 1 gfci?	recall: 0.2
+Query: can you use two different brands of polyurethane?	recall: 0.0
+Query: are npt and ips the same thread size?	recall: 0.400
+Query: there are no studs in my wall?	recall: 0.0
+Query: what is the difference between base and crown moulding?	recall: 0.0
+Query: what is the best temperature to set a dehumidifier?	recall: 0.2
+Query: what is the difference between pocket hole screws and regular screws?	recall: 0.133
+Query: what is the difference between acrylic and latex primer?	recall: 0.2
+Query: can kilz kill black mold?	recall: 0.2
+Query: are look keo cleats spd compatible?	recall: 0.2100
+Query: do cycling gloves make a difference?	recall: 0.2
+Query: are bike lights too bright?	recall: 0.16666666666666666
+Query: are all bike seats interchangeable?	recall: 0.2
+Query: do shifters and derailleurs have to match?	recall: 0.2222
+Query: what kind of chain do i need for my bike?	recall: 0.2
+Query: are fixed gear bikes safe?	recall: 0.23
+Query: is wd40 a lubricant or degreaser?	recall: 0.125
+Query: why are cranksets so expensive?	recall: 0.100
+Query: are fixed gear bikes dangerous?	recall: 0.122
+Query: what are narrow wide chainrings?	recall: 0.23
+Query: what size chain do i need for my mountain bike?	recall: 0.0
+Query: can you see who visits your profile on strava?	recall: 0.277
+Query: are quick release skewers universal?	recall: 0.80
+Query: are road and mtb gear cables the same?	recall: 0.2
+Query: what gear should i leave my bike in?	recall: 0.0
+Query: why are aero bars not allowed?	recall: 0.2
+Query: are back pedal brakes safe?	recall: 0.2
+Query: are gel saddles any good?	recall: 0.50
+Query: are gxp and hollowtech compatible?	recall: 0.88
+Query: are all freehubs the same size?	recall: 0.2
+Query: are look delta and spd sl compatible?	recall: 0.0
+Query: are shimano and sram 10 speed cassettes compatible?	recall: 0.400
+Query: how long to ride 20 km?	recall: 0.2
+Query: are bikes okay in the rain?	recall: 0.370
+Query: is gxp compatible with hollowtech?	recall: 0.01111111111
+Query: is a bike a vehicle?	recall: 0.2
+Query: why are some hubs louder than others?	recall: 0.2
+Query: are brake and shifter cables the same?	recall: 0.22222222
+Query: what is a category 5 climb?	recall: 0.11100
+Query: tires that are nail proof?	recall: 0.2
+Query: are roads quieter on sundays?	recall: 0.2
+Query: are hub gears any good?	recall: 0.2
+Query: is 7 gears enough on a bike?	recall: 0.0
+Query: can any mtb tire be tubeless?	recall: 0.2
+Query: are spd and spd sl compatible?	recall: 0.0221111
+Query: how long does it take to ride a bike 20 km?	recall: 0.0
+Query: is 20 km h fast?	recall: 0.2
+Query: how long to bike 1 km?	recall: 0.2
+Query: how long does it take to get used to bike seat?	recall: 0.2
+Query: how long should you wait to open radiator cap?	recall: 0.0
+Query: what is the difference between map and maf sensor?	recall: 0.2
+Query: what is the tyre pressure for low profile tyres?	recall: 0.0
+Query: can rod knock be fixed?	recall: 0.2
+Query: how much does it cost to recharge a car battery?	recall: 0.233333
+Query: what are map and maf sensors?	recall: 0.2
+Query: are brake pads supposed to be loose?	recall: 0.213
+Query: what happens if you drive car without water?	recall: 0.21111
+Query: can i drive my car without a radiator?	recall: 0.2
+Query: can fix a flat freeze?	recall: 0.2
+Query: do dtc codes clear themselves?	recall: 0.0
+Query: can i use rtv with a gasket?	recall: 0.2
+Query: how much does it cost to charge a car battery at home?	recall: 0.32
+Query: can i use synthetic oil after using regular?	recall: 0.2
+Query: do automatic or manual transmissions last longer?	recall: 0.0
+Query: can you put an automatic car in neutral while driving?	recall: 0.2
+Query: is jumpstarting a car safe?	recall: 0.2
+Query: can i use synthetic brake fluid in my car?	recall: 0.2
+Query: are all hybrids automatic transmission?	recall: 0.0
+Query: is brake fluid water soluble?	recall: 0.000012
+Query: can i use rtv on thermostat housing?	recall: 0.22222222
+Query: will a bad starter drain battery?	recall: 0.0
+Query: do impact sockets make a difference?	recall: 0.0
+Query: is 44 psi too much?	recall: 0.2
+Query: where are fuses on renault scenic?	recall: 0.0122222222
+Query: are crank and cam sensors the same?	recall: 0.2
+Query: what is the difference between long and short gears?	recall: 0.2
+Query: what is the difference between impact and regular sockets?	recall: 0.2
+Query: what happens if i drive my car in 3rd gear?	recall: 0.01111
+Query: how much does diesel expand with temperature?	recall: 0.2
+Query: how many amps does a vehicle use?	recall: 0.2
+Query: can c vs can ihs?	recall: 0.2
+Query: do automatic transmissions last longer than manual?	recall: 0.2
+Query: are valve cover gaskets reusable?	recall: 0.322
+Query: what is the difference between ac and max ac?	recall: 0.032222222
+Query: do rotors always need to be replaced with pads?	recall: 0.2
+Query: how accurate are engine dynos?	recall: 0.01233
+Query: is uv dye bad for coolant?	recall: 0.2
+Query: can i drive without a radiator?	recall: 0.32
+Query: does automatic transmission last longer than manual?	recall: 0.2
+Query: will dtc codes clear themselves?	recall: 0.222222222
+Query: why is fwd more efficient?	recall: 0.2
+Query: what happens when you put transmission fluid in with your motor oil?	recall: 0.2
+Query: can hybrid batteries be tested?	recall: 0.2
+Query: can i drive my car after putting coolant?	recall: 0.21
+Query: how much water does an average radiator hold?	recall: 0.2
+Query: is wd40 ok to use on rubber?	recall: 0.0000112
+Query: obd2 port has no power?	recall: 0.2
+Query: how long do you have to wait to put coolant in your car?	recall: 0.2
+Query: can i tow an automatic car in neutral?	recall: 0.01112
+Query: how much hp does a power steering pump use?	recall: 0.2
+Query: what is the difference between a wet clutch and a dry clutch?	recall: 0.2
+Query: can subaru be flat towed?	recall: 0.2
+Query: are map and maf sensors the same?	recall: 0.2
+Query: rpms are jumping up and down?	recall: 0.222
+Query: are tires removed for alignment?	recall: 0.231
+Query: are any subaru's flat towable?	recall: 0.2
+Query: what is the difference between high and low octane gas?	recall: 0.0
+Query: are split cv boots good?	recall: 0.2221
+Query: what is the difference between front and rear rotors?	recall: 0.2
+Query: are boxer engines hard to work on?	recall: 0.0
+Query: can i drive my car with a broken spark plug?	recall: 0.2
+Query: do amps matter on car battery?	recall: 0.0
+Query: do sway bars stiffer ride?	recall: 0.2
+Query: how many watts does it take to jump a car?	recall: 0.2221
+Query: are trailer axles supposed to be bent?	recall: 0.2
+Query: can i use synthetic brake fluid?	recall: 0.0111111
+Query: can you put 2 batteries in a car?	recall: 0.2222222
+Query: how much air should i put in low profile tires?	recall: 0.210
+Query: can you use synthetic oil after using regular oil?	recall: 0.0
+Query: are obd scanners worth it?	recall: 0.2
+Query: can i use rtv instead of a gasket?	recall: 0.120
+Query: what is the difference between cold cranking amps and amp hours?	recall: 0.0
+Query: do i bleed brakes with engine running?	recall: 0.0
+Query: when bleeding brakes should the car be on?	recall: 0.2333333
+Query: how does automatic transmission park work?	recall: 0.2
+Query: what is the difference between spark plug types?	recall: 0.03333333
+Query: can you use rtv instead of a gasket?	recall: 0.2222222
+Query: what is the difference between ignition coil and direct ignition coil?	recall: 0.2
+Query: are all oil filter threads the same?	recall: 0.0
+Query: can you change only 1 spark plug?	recall: 0.0
+Query: what is the difference between synthetic brake fluid?	recall: 0.0
+Query: are chain driven cars good?	recall: 0.2
+Query: what happens when you drive your car in the wrong gear?	recall: 0.0
+Query: are blue dot tail lights legal?	recall: 0.2
+Query: is wd 40 safe for electrical connections?	recall: 0.2
+Query: do cheap jumper cables work?	recall: 0.2
+Query: are drum brakes cheaper than disc?	recall: 0.22222222333
+Query: will a warped head cause low compression?	recall: 0.2222222
+Query: can i drive a car without a radiator?	recall: 0.0000022
+Query: can you ruin a manual transmission?	recall: 0.0
+Query: do i add coolant with car running?	recall: 0.2
+Query: do hazard lights come on automatically?	recall: 0.3
+Query: is there a fuse for airbags?	recall: 0.14285714285714285
+Query: what last longer manual or automatic transmission?	recall: 0.1
+Query: how much does it cost to replace a scion tc engine?	recall: 0.333333
+Query: are both radiator hoses supposed to be hot?	recall: 0.0
+Query: is there a difference between red and clear power steering fluid?	recall: 0.0
+MRR: 0.2951206068112563
+Query: how much should i feed my 1 year old english mastiff?	recall: 0.4
+Query: are zebra loaches safe with shrimp?	recall: 0.8
+Query: are serpae tetras fin nippers?	recall: 0.5
+Query: do neon tetras eat shrimp?	recall: 1.0
+Query: how much should i feed my english mastiff?	recall: 0.4
+Query: is cat skin tougher than human skin?	recall: 1.0
+Query: how to tell the difference between a girl and boy bearded dragon?	recall: 0.5
+Query: can i put a goldfish in a 2 gallon tank?	recall: 0.25
+Query: will betta fish eat snails?	recall: 0.5
+Query: is my corn snake male or female?	recall: 0.5
+Query: can rabbits get e coli?	recall: 0.5

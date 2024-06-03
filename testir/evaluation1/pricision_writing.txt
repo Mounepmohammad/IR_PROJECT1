@@ -1,0 +1,501 @@
+Query: what is the difference between a college and an academy?	precision: 0.4115
+Query: what is the best reply for excuse me?	precision: 0.206
+Query: have pp vs have been pp?	precision: 0.421
+Query: what is the difference between a hard drive and a hard disk?	precision: 0.2625
+Query: how to say i am very interested in a job?	precision: 0.1015
+Query: what is the difference between expression and idiom?	precision: 0.1085
+Query: date and time are or is?	precision: 0.387
+Query: can you begin a sentence with while?	precision: 0.426
+Query: are descent and ancestry the same?	precision: 0.4655
+Query: what is the difference between present continuous tense and past continuous tense?	precision: 0.3735
+Query: what is the difference of world and universe?	precision: 0.0365
+Query: is terse a negative word?	precision: 0.2055
+Query: your attendance is a must meaning?	precision: 0.264
+Query: what is the difference between help and helps?	precision: 0.223
+Query: person who always blames someone else?	precision: 0.0535
+Query: are double contractions grammatically correct?	precision: 0.2885
+Query: do diligence or due diligence?	precision: 0.3435
+Query: a man is a mortal?	precision: 0.4755
+Query: what is the difference in usage between the words british and english?	precision: 0.161
+Query: what is the difference between type and print?	precision: 0.456
+Query: what is the difference between graphic and graphical?	precision: 0.11
+Query: have been or had been?	precision: 0.092
+Query: what is the difference between relation and relationship?	precision: 0.099
+Query: what is the difference between give in and give up?	precision: 0.3385
+Query: are put in place meaning?	precision: 0.066
+Query: what is 1st 2nd and 3rd base in dating?	precision: 0.0515
+Query: is to vs has to?	precision: 0.0225
+Query: what is the difference between high and low notes?	precision: 0.406
+Query: what is the difference between good on you and good for you?	precision: 0.354
+Query: what is the difference between good noon and good afternoon?	precision: 0.3265
+Query: what is the difference between the word god and lord?	precision: 0.296
+Query: what is the difference between particle and particulate?	precision: 0.3705
+Query: are changed vs have changed?	precision: 0.3055
+Query: what is the difference between bragging and boasting?	precision: 0.1255
+Query: are semicolon and dash the same?	precision: 0.0595
+Query: what is the difference between what and which?	precision: 0.1345
+Query: is flustered a real word?	precision: 0.0685
+Query: what is the difference of a few and few?	precision: 0.025
+Query: do novels have to be fiction?	precision: 0.0285
+Query: are nomenclature and terminology the same?	precision: 0.366
+Query: is 25 years half a century?	precision: 0.1205
+Query: what does it mean when someone is not in the mood?	precision: 0.3895
+Query: is it faq or faqs?	precision: 0.3105
+Query: what is the difference between overwhelmed and whelmed?	precision: 0.017
+Query: what is the difference between past continuous and present perfect?	precision: 0.3075
+Query: what is the difference between a living room and a parlor?	precision: 0.1885
+Query: can x be a vowel?	precision: 0.148
+Query: is the disk drive the hard drive?	precision: 0.0555
+Query: what is the difference between the poor and the needy?	precision: 0.2125
+Query: what does it mean when someone says they want to do you?	precision: 0.1095
+Query: what is the difference between ledger and account?	precision: 0.0955
+Query: are afraid and fear the same thing?	precision: 0.2185
+Query: what is the difference between concentration focus?	precision: 0.2555
+Query: what is the difference between base and based?	precision: 0.178
+Query: what is the difference between a motor and an engine in a car?	precision: 0.4635
+Query: what is the difference between workout and exercise?	precision: 0.4745
+Query: a man who has many lovers?	precision: 0.118
+Query: will the shades of pemberley be thus polluted?	precision: 0.015
+Query: is layperson a derogatory term?	precision: 0.036
+Query: what is the difference of hypothetical and theoretical?	precision: 0.0365
+Query: is duh a bad word?	precision: 0.04
+Query: do you mind if i response?	precision: 0.456
+Query: what is the difference between enhanced and improved?	precision: 0.3705
+Query: what is the difference between types and kinds?	precision: 0.156
+Query: are slacks and suit pants the same?	precision: 0.3665
+Query: what is it called when someone changes their mind a lot?	precision: 0.3165
+Query: is anniversary just for marriage?	precision: 0.161
+Query: are salty and savory the same?	precision: 0.0645
+Query: how much is 15 hundred?	precision: 0.145
+Query: why are wolverhampton wanderers called wanderers?	precision: 0.3425
+Query: are riding the hobby horse?	precision: 0.2795
+Query: a guy who asks a lot of questions?	precision: 0.162
+Query: what is the difference between working out and exercising?	precision: 0.2345
+Query: has told or had told?	precision: 0.344
+Query: what is the difference between a cream and creme?	precision: 0.1125
+Query: what is the difference between a lip reader and a lipspeaker?	precision: 0.1505
+Query: is naff a swear word?	precision: 0.404
+Query: how are circumference and perimeter different?	precision: 0.129
+Query: a guy who only cares about money?	precision: 0.2855
+Query: what is the difference of chest and trunk?	precision: 0.183
+Query: what is the difference between excuse you and excuse me?	precision: 0.4755
+Query: can obvious be used as a noun?	precision: 0.0955
+Query: are you angry at me meaning?	precision: 0.0815
+Query: is lunch dinner or supper?	precision: 0.486
+Query: what are the layers of an onion?	precision: 0.3395
+Query: what is it called when you believe there is a higher power?	precision: 0.4525
+Query: what is the difference between prison and jail uk?	precision: 0.47
+Query: what is difference between leaving and going?	precision: 0.014
+Query: what is difference between belief and trust?	precision: 0.3615
+Query: what is the difference between stem and trunk?	precision: 0.063
+Query: is idioms and phrases are same?	precision: 0.485
+Query: are phrases and idioms the same?	precision: 0.0935
+Query: what is the meaning of the root word vi?	precision: 0.2365
+Query: what do slacks look like?	precision: 0.351
+Query: what is the difference between warranty and guarantee?	precision: 0.1615
+Query: dedication and commitment are they the same?	precision: 0.081
+Query: what is the difference between ideal and optimal?	precision: 0.029
+Query: what is the difference between sport play and game?	precision: 0.114
+Query: are you a mouse or a man?	precision: 0.3355
+Query: answer to how was it going?	precision: 0.086
+Query: what is the difference between family name and last name?	precision: 0.156
+Query: whom u want to talk?	precision: 0.388
+Query: is i personally correct grammar?	precision: 0.0235
+Query: what is the difference between stand up?	precision: 0.187
+Query: whom to follow up with?	precision: 0.2275
+Query: is toast countable or uncountable?	precision: 0.4375
+Query: what is the difference between deputy and vice?	precision: 0.2845
+Query: what is the difference between of guarantee and warranty?	precision: 0.0385
+Query: what are positive and negative questions?	precision: 0.419
+Query: is not a fan of meaning?	precision: 0.195
+Query: what is positive negative and neutral?	precision: 0.215
+Query: are the shades of pemberley?	precision: 0.1445
+Query: can you begin a sentence with regretfully?	precision: 0.3445
+Query: is gosh a real word?	precision: 0.0465
+Query: to is preposition or not?	precision: 0.174
+Query: what is the difference between cunning and wily?	precision: 0.157
+Query: what is it called when you always want to be right?	precision: 0.37
+Query: is no worries proper english?	precision: 0.043
+Query: what is the difference between indication and indicator?	precision: 0.001
+Query: is these ones correct english?	precision: 0.437
+Query: what is the difference between being selfish and self centered?	precision: 0.4855
+Query: are speeches written in first person?	precision: 0.302
+Query: has took or has taken?	precision: 0.4375
+Query: what is the difference between jargon and technical terminology?	precision: 0.343
+Query: what is the difference between internet and online?	precision: 0.3265
+Query: is it grammatically correct to say thank you so very much?	precision: 0.05
+Query: what is the difference between single quotation marks and double quotation marks?	precision: 0.1295
+Query: what is the difference between class and group?	precision: 0.4815
+Query: how to answer when someone ask how's it going?	precision: 0.335
+Query: what is the difference between a series and a season?	precision: 0.2715
+Query: what is the difference between cook and cooker?	precision: 0.0325
+Query: can you begin a sentence with nor?	precision: 0.1215
+Query: what does work me mean?	precision: 0.4625
+Query: what is native level english?	precision: 0.469
+Query: is nowadays formal or informal?	precision: 0.2825
+Query: what is the difference between sport game play competition and recreation?	precision: 0.4095
+Query: can yesterday be an adverb?	precision: 0.013
+Query: what is the difference between possible and feasible?	precision: 0.469
+Query: is exactly the same grammatically correct?	precision: 0.3455
+Query: what is the difference between multi and multiple?	precision: 0.399
+Query: is it suppose to do or supposed to do?	precision: 0.485
+Query: what is the difference between time and times?	precision: 0.3325
+Query: what is difference between powerless and helpless?	precision: 0.0905
+Query: what is it called when you want more?	precision: 0.3115
+Query: what is it called when someone always disagrees?	precision: 0.2885
+Query: is bfe a real place?	precision: 0.443
+Query: what is the difference between being practical and pragmatic?	precision: 0.318
+Query: what does it mean when you call someone your lover?	precision: 0.48
+Query: has pp has been pp?	precision: 0.002
+Query: what are the difference between type and category?	precision: 0.4215
+Query: what is the difference between miss and ma'am?	precision: 0.146
+Query: what is the difference series or season?	precision: 0.4805
+Query: can you start a sentence with especially?	precision: 0.196
+Query: what is it called when someone always thinks negative?	precision: 0.244
+Query: would be vs will be?	precision: 0.462
+Query: what is a person that is always negative?	precision: 0.418
+Query: what are you doing in indirect speech?	precision: 0.127
+Query: what is the difference between evangelical and evangelism?	precision: 0.335
+Query: what is the difference between met and meet?	precision: 0.1855
+Query: has get or has got?	precision: 0.0365
+Query: are symbols and metaphors the same thing?	precision: 0.055
+Query: is much singular or plural?	precision: 0.4105
+Query: what is the difference between clean and clear?	precision: 0.3215
+Query: what do you answer when someone says what's up?	precision: 0.2515
+Query: 2 am is morning or night?	precision: 0.402
+Query: what is the difference between lunch and supper?	precision: 0.0325
+Query: are you nuts meaning etymology?	precision: 0.236
+Query: has got or has gotten?	precision: 0.2805
+Query: what is the difference between describe and explain?	precision: 0.253
+Query: what is the difference between target aim and goal?	precision: 0.361
+Query: can you begin a sentence with furthermore?	precision: 0.086
+Query: what is the difference between aim at and aim to?	precision: 0.1085
+Query: what does it mean when someone says you lot?	precision: 0.4865
+Query: your attendance is of great importance?	precision: 0.266
+Query: what is the difference between phonetics and phonemics?	precision: 0.2275
+Query: what is the difference between in and with?	precision: 0.1425
+Query: what is the difference between term and tenure?	precision: 0.131
+Query: what does breaking hearts and taking names mean?	precision: 0.1905
+Query: what is the difference between i don't mind and i don't care?	precision: 0.225
+Query: what is the difference between man human and person?	precision: 0.2005
+Query: what is the difference between dominant and predominant?	precision: 0.3265
+Query: is 1 am considered morning or night?	precision: 0.297
+Query: what is the difference between an area and a zone?	precision: 0.16
+Query: is milquetoast a bad word?	precision: 0.043
+Query: what is the difference between class and course?	precision: 0.0475
+Query: can especially start a sentence?	precision: 0.3525
+Query: all is or all are what is correct?	precision: 0.4505
+Query: what is the difference between the word little and small?	precision: 0.2675
+Query: what are the difference between good and fine?	precision: 0.1365
+Query: why are they called ggs?	precision: 0.333
+Query: what is difference between opacity and opaque?	precision: 0.144
+Query: what is the difference of theory and theorem?	precision: 0.3195
+Query: reply of hope you are doing great?	precision: 0.164
+Query: what are words with silent letters called?	precision: 0.346
+Query: i has been or i have been?	precision: 0.4895
+Query: what is the difference between genuine and original?	precision: 0.4895
+Query: is zealot a bad word?	precision: 0.084
+Query: what does it mean when someone asks what do you want from me?	precision: 0.202
+Query: can example be a verb?	precision: 0.251
+Query: what does it mean when someone says i feel you?	precision: 0.199
+Query: is tushy an english word?	precision: 0.0355
+Query: is drink you under the table?	precision: 0.003
+Query: what is the difference between single and double quotation marks?	precision: 0.3005
+Query: are humble and modest synonyms?	precision: 0.4975
+Query: what is the difference between slum and ghetto?	precision: 0.255
+Query: is no capitalized in a title?	precision: 0.1985
+Query: what does it mean when someone says sweet surrender?	precision: 0.149
+Query: are you a man or a mouse?	precision: 0.47
+Query: are opened or are open?	precision: 0.4815
+Query: what is difference between magnitude and size?	precision: 0.2505
+Query: is as of late correct grammar?	precision: 0.475
+Query: surnames that are also words?	precision: 0.421
+Query: what is it called when someone is too skinny?	precision: 0.2965
+Query: what is the difference between labour and labourer?	precision: 0.2735
+Query: is enough or are enough?	precision: 0.1685
+Query: is it grammatically correct to say my bad?	precision: 0.2105
+Query: what the difference between group and community?	precision: 0.2025
+Query: who says otay in the little rascals?	precision: 0.087
+Query: what is the difference between service and services?	precision: 0.242
+Query: why is awesome good and awful bad?	precision: 0.472
+Query: are inflection and intonation the same?	precision: 0.2175
+Query: is g capital in god?	precision: 0.21
+Query: what is the difference between so far and by far?	precision: 0.456
+Query: definition of someone who knows what they want?	precision: 0.0735
+Query: is blatantly obvious grammatically correct?	precision: 0.1205
+Query: what is difference between british and english?	precision: 0.3775
+Query: is gobbledygook a bad word?	precision: 0.106
+Query: what is the difference between a grade and degree?	precision: 0.0355
+Query: what is a series of two books called?	precision: 0.057
+Query: do you eat or drink soup?	precision: 0.1265
+Query: what is the difference between purpose and aim in research?	precision: 0.4065
+Query: what is the difference between less and less than?	precision: 0.182
+Query: must of or must have?	precision: 0.065
+Query: is it gonna or gotta?	precision: 0.0325
+Query: is i wonder a question?	precision: 0.261
+Query: how are you doing vs how are you?	precision: 0.1665
+Query: you are thick in the head meaning?	precision: 0.3
+Query: is 2 in the morning am or pm?	precision: 0.36
+Query: is i plural or singular?	precision: 0.0665
+Query: what is the biblical meaning of quiver?	precision: 0.3
+Query: answer of do you mind?	precision: 0.2535
+Query: what is the difference between pace and speed in running?	precision: 0.474
+Query: has not or have not?	precision: 0.27
+Query: is it x against y?	precision: 0.3785
+Query: we have took or taken?	precision: 0.4475
+Query: answer of how do you do?	precision: 0.152
+Query: is jibe a bad word?	precision: 0.2935
+Query: what is the difference between a jacket and a coat?	precision: 0.0865
+Query: is bogus a formal word?	precision: 0.464
+Query: what is the meaning of first quality?	precision: 0.4105
+Query: can we begin a sentence with for?	precision: 0.0185
+Query: are tags and plates the same thing?	precision: 0.3365
+Query: whom for non living things?	precision: 0.0835
+Query: night 2 is am or pm?	precision: 0.0115
+Query: what is the difference between goal and target?	precision: 0.328
+Query: what is the difference between article and research?	precision: 0.378
+Query: what is the difference between measure and measurement?	precision: 0.357
+Query: days of the week are nouns?	precision: 0.0425
+Query: is it diner or cafe?	precision: 0.041
+Query: what is the difference between sleeping and asleep?	precision: 0.434
+Query: what is difference between warranty and guarantee?	precision: 0.396
+Query: what are the difference between phonetics and phonemics?	precision: 0.2435
+Query: what is the difference between limited and delimited?	precision: 0.063
+Query: can you begin a sentence with hence?	precision: 0.3785
+Query: what is the difference between everyday and every other day?	precision: 0.4805
+Query: what is it called when you question your faith?	precision: 0.1565
+Query: is spill the tea an idiom?	precision: 0.032
+Query: what is the difference between canadian and american english?	precision: 0.0545
+Query: is it floor or level?	precision: 0.112
+Query: is it grammatically correct to say both of?	precision: 0.377
+Query: what is the difference between overtones and undertones?	precision: 0.0405
+Query: 2 into 4 is equal to?	precision: 0.252
+Query: what is the difference between a catholic cathedral and a basilica?	precision: 0.368
+Query: what are acts or actions?	precision: 0.473
+Query: what is the difference between job and employment?	precision: 0.059
+Query: are ambition and dream the same?	precision: 0.184
+Query: can you start a sentence with rather?	precision: 0.1435
+Query: can you begin a sentence with during?	precision: 0.0725
+Query: answer of hope you are doing good?	precision: 0.3735
+Query: are lord and god the same thing?	precision: 0.216
+Query: what does the @ symbol mean before a name?	precision: 0.3205
+Query: x is plotted against y?	precision: 0.2555
+Query: what is the difference between base form and infinitive?	precision: 0.41
+Query: can you begin a sentence with due to?	precision: 0.409
+Query: what is the difference between god and lord god?	precision: 0.4065
+Query: what is the difference between have and did?	precision: 0.1895
+Query: what does it mean when someone says what is your good name?	precision: 0.0945
+Query: what is the difference between verse and stanza in poetry?	precision: 0.1075
+Query: what is the difference between fair and just?	precision: 0.222
+Query: what is the difference of geometric and geometrical?	precision: 0.043
+Query: answer of how is your study?	precision: 0.324
+Query: are days of the week adjectives?	precision: 0.391
+Query: what is the difference between weight and heft?	precision: 0.115
+Query: what is the difference between owing to and due to?	precision: 0.0885
+Query: can you begin a sentence with myself?	precision: 0.2405
+Query: what is the difference between abstract and overview?	precision: 0.402
+Query: how are you doing now meaning?	precision: 0.198
+Query: have sb do or doing?	precision: 0.257
+Query: is it dads or dad’s?	precision: 0.313
+Query: is owing to a preposition?	precision: 0.493
+Query: what is the difference between deputy director and associate director?	precision: 0.375
+Query: what is the difference between a wise man and a wise guy?	precision: 0.4215
+Query: what is the difference between a shepherd and a sheep herder?	precision: 0.0785
+Query: are films and movies the same thing?	precision: 0.0435
+Query: what is the difference between a jig and a template?	precision: 0.185
+Query: is it which or what?	precision: 0.39
+Query: what is the difference between complex and complicated?	precision: 0.347
+Query: what is the difference between job work and occupation?	precision: 0.446
+Query: what are the difference between man and human?	precision: 0.1485
+Query: what is the difference between a metropolis and a city?	precision: 0.1775
+Query: are toast a countable or uncountable noun?	precision: 0.494
+Query: is it often or ofen?	precision: 0.1555
+Query: where are u put up meaning?	precision: 0.4005
+Query: is trio singular or plural?	precision: 0.1555
+Query: what is the difference between the parent and parents?	precision: 0.363
+Query: what is the difference between a legend and a key on a map?	precision: 0.4965
+Query: is it grammatically correct to start a sentence with also?	precision: 0.3515
+Query: my sins are endless meaning?	precision: 0.318
+Query: neither nor are or is?	precision: 0.3845
+Query: what is the difference between essential and quintessential?	precision: 0.2195
+Query: what is the difference between cinema and theatre?	precision: 0.148
+Query: i have just come or came?	precision: 0.196
+Query: are you upset with me or at me?	precision: 0.3785
+Query: are or have been grammar?	precision: 0.313
+Query: are byproducts and waste products the same?	precision: 0.2025
+Query: is it grammatically correct to start a sentence with then?	precision: 0.188
+Query: are you based in london meaning?	precision: 0.1385
+Query: what is the difference between line and file?	precision: 0.1305
+Query: are or is a range?	precision: 0.0185
+Query: is me personally correct grammar?	precision: 0.418
+Query: why is bce and ce used?	precision: 0.306
+Query: is thus the same as therefore?	precision: 0.291
+Query: what is the difference between desktop background and wallpaper?	precision: 0.405
+Query: is addicted a real word?	precision: 0.107
+Query: are engines and motors the same?	precision: 0.301
+Query: answer of how is your life going?	precision: 0.368
+Query: anybody can dance or everybody?	precision: 0.033
+Query: is a lot plural or singular?	precision: 0.314
+Query: is invalid a bad word?	precision: 0.4955
+Query: what is the difference between church basilica and cathedral?	precision: 0.3605
+Query: what nationality are you if you are from afghanistan?	precision: 0.126
+Query: what does it mean when someone says good for you?	precision: 0.1275
+Query: how to answer the question what is your nationality?	precision: 0.275
+Query: what does it mean when someone asks who are you?	precision: 0.3145
+Query: what is it called when you date someone younger?	precision: 0.4265
+Query: what is hash called in english?	precision: 0.2465
+Query: what are you doing in reported speech?	precision: 0.1795
+Query: what is the difference between jobs and occupations?	precision: 0.113
+Query: what is the difference between usually and normally?	precision: 0.366
+Query: is non existent one word?	precision: 0.4215
+Query: what is difference between category and type?	precision: 0.146
+Query: are lunch and dinner the same thing?	precision: 0.08
+Query: are vocation and mission related?	precision: 0.0755
+Query: why do good things come in threes?	precision: 0.2705
+Query: what does it mean when someone questions everything?	precision: 0.1675
+Query: is pizza uncountable or countable?	precision: 0.263
+Query: are quite and quiet homophones?	precision: 0.322
+Query: what does it mean when someone says my love?	precision: 0.4195
+Query: what is the difference between null and void?	precision: 0.3455
+Query: is bravo an italian word?	precision: 0.116
+Query: are the shades of pemberley to be thus polluted analysis?	precision: 0.0055
+Query: has written or had written?	precision: 0.4825
+Query: what do you call a lovable person?	precision: 0.175
+Query: what is the difference between a room and space?	precision: 0.2735
+Query: what does it mean when someone texts just a period?	precision: 0.1355
+Query: what is the difference between personnel and employee?	precision: 0.23
+Query: can i use btw in email?	precision: 0.4135
+Query: can whereas start a sentence?	precision: 0.0525
+Query: what is the difference between the word sell and sale?	precision: 0.0745
+Query: are admitted and accepted the same thing?	precision: 0.2615
+Query: how are empires different from kingdoms?	precision: 0.4125
+Query: what is the difference between as of and as at?	precision: 0.4635
+Query: is not capitalized in a title?	precision: 0.176
+Query: are issues and challenges the same?	precision: 0.3765
+Query: is juxtaposition and oxymoron the same?	precision: 0.256
+Query: is it grammatically correct to say done right?	precision: 0.117
+Query: is it madam or sir?	precision: 0.1505
+Query: have forgot or have forgotten?	precision: 0.418
+Query: what is the difference between the words enunciate and pronounce?	precision: 0.259
+Query: what is the difference between girl and gurl?	precision: 0.3225
+Query: what is the difference between routine and programme in fitness?	precision: 0.369
+Query: what is the difference between accounting and accountancy?	precision: 0.2215
+Query: why does pax mean person?	precision: 0.2775
+Query: is it grammatically correct to say on yesterday?	precision: 0.1955
+Query: can a guy have a maiden name?	precision: 0.4375
+Query: what is the difference between fully and wholly?	precision: 0.3275
+Query: period of 25 years is called?	precision: 0.1205
+Query: what does it mean when someone says figures?	precision: 0.2395
+Query: what is ganbatte ne in english?	precision: 0.37
+Query: do a film or make a film?	precision: 0.059
+Query: what is the main similarity between the terms monologue and soliloquy?	precision: 0.1955
+Query: a man who massage is called?	precision: 0.161
+Query: is uzi a proper noun?	precision: 0.0855
+Query: what is the difference between focus and concentration?	precision: 0.2775
+Query: what is the meaning of just for your information?	precision: 0.005
+Query: is it wholistic or holistic?	precision: 0.2725
+Query: is nana and grandmother the same?	precision: 0.2765
+Query: are commas and dashes interchangeable?	precision: 0.0865
+Query: what is the difference between routine and programme?	precision: 0.476
+Query: x does not a y make?	precision: 0.0075
+Query: what is the difference between currently and now?	precision: 0.397
+Query: is unabashed a negative word?	precision: 0.356
+Query: scent is the s or c silent?	precision: 0.015
+Query: how to say you are interested in the position?	precision: 0.001
+Query: what is the meaning of just enough?	precision: 0.4535
+Query: what is the difference between oasis and oases?	precision: 0.0165
+Query: is waste management a utility?	precision: 0.317
+Query: what the difference between society and humanity?	precision: 0.332
+Query: are abc and bbc related?	precision: 0.1005
+Query: what is the difference between official and officer?	precision: 0.3225
+Query: what is the difference between an image and a photo?	precision: 0.357
+Query: can obviously be a noun?	precision: 0.086
+Query: have skin in the game synonym?	precision: 0.34
+Query: is faq singular or plural?	precision: 0.4845
+Query: a man who provides massage professionally?	precision: 0.4685
+Query: what the difference between connection and connexion?	precision: 0.187
+Query: has finally come or came?	precision: 0.3445
+Query: are speed and rate the same?	precision: 0.1205
+Query: what are the pink elephant in the room?	precision: 0.051
+Query: what is the difference between the middle and center?	precision: 0.297
+Query: what is the difference between a power drill and a power screwdriver?	precision: 0.408
+Query: are aim and purpose the same?	precision: 0.304
+Query: what is not to love about you?	precision: 0.1565
+Query: a period of 25 years is called?	precision: 0.226
+Query: what is the best reply to get well soon?	precision: 0.1245
+Query: at your earliest convenience is it rude?	precision: 0.0335
+Query: are grammar and spelling the same thing?	precision: 0.1755
+Query: toyota cars are made in japan grammar?	precision: 0.4785
+Query: how are perimeter and circumference related?	precision: 0.1265
+Query: what is the difference between past participle and gerund?	precision: 0.171
+Query: are starters and appetizers the same thing?	precision: 0.4345
+Query: is naff a bad word?	precision: 0.1615
+Query: are lb and lbs the same?	precision: 0.2235
+Query: what is the difference between did you and have you?	precision: 0.2095
+Query: what is the difference between equal and equitable?	precision: 0.3585
+Query: what are the semi vowels in english alphabet?	precision: 0.3295
+Query: have an ax to grind origin?	precision: 0.2425
+Query: fish is it countable or uncountable?	precision: 0.1095
+Query: what is the difference between single and double parentheses?	precision: 0.213
+Query: what is the difference between wind speed and wind velocity?	precision: 0.323
+Query: is ta in the oxford dictionary?	precision: 0.2285
+Query: how to reply when someone says get well soon?	precision: 0.4305
+Query: what does it mean when a man says you belong to me?	precision: 0.4975
+Query: what is the difference between isolated and insulated?	precision: 0.2585
+Query: what does it mean when someone calls you sunshine?	precision: 0.193
+Query: is a verb a predicate?	precision: 0.3075
+Query: what are nouns with pictures?	precision: 0.109
+Query: is chief executive officer capitalized?	precision: 0.47
+Query: is alright better than okay?	precision: 0.1205
+Query: what are semi vowel letters?	precision: 0.066
+Query: i have just eaten or i just ate?	precision: 0.3155
+Query: is fewer more or less?	precision: 0.0355
+Query: what is the difference between conversion and transformation sentence?	precision: 0.127
+Query: is it grammatically correct to say thank you so much?	precision: 0.433
+Query: what is the difference between media and press?	precision: 0.4375
+Query: why yep instead of yes?	precision: 0.348
+Query: is asinine a bad word?	precision: 0.08
+Query: what is the difference between a wedding ceremony and a marriage ceremony?	precision: 0.421
+Query: do u say happy halloween?	precision: 0.422
+Query: what are animals and humans called?	precision: 0.2775
+Query: is fruit uncountable or countable?	precision: 0.0145
+Query: what are the differences between cinema and theatre?	precision: 0.0725
+Query: what is difference between now and currently?	precision: 0.4315
+Query: do you plot x against y?	precision: 0.2945
+Query: is it begin or start?	precision: 0.2315
+Query: can neither be used for three?	precision: 0.3975
+Query: a man who cheats is called?	precision: 0.324
+Query: why are cuss words 4 letters?	precision: 0.27
+Query: a person who swears a lot?	precision: 0.352
+Query: what does it mean when someone says i'm good?	precision: 0.0535
+Query: what is the difference between light off and light out?	precision: 0.148
+Query: what is the difference between best and better?	precision: 0.3775
+Query: what is the difference between native language and mother tongue?	precision: 0.204
+Query: is 11 am early afternoon?	precision: 0.057
+Query: human resources are or is?	precision: 0.0985
+Query: is god a plural or singular?	precision: 0.0465
+Query: what does it mean when someone says i just love you?	precision: 0.3135
+Query: what is the difference between what about you and how about you?	precision: 0.035
+Query: 25 years old is called?	precision: 0.3945
+Query: what does it mean when someone just puts a period?	precision: 0.003
+Query: what is the difference between leave and go?	precision: 0.158
+Query: what is the difference between degree and grade?	precision: 0.485
+Query: am is are was were will be?	precision: 0.322
+Query: do i italicize company names?	precision: 0.006
+Query: are currently or currently are?	precision: 0.0335
+Query: can you begin a sentence with guess?	precision: 0.378
+Query: are oval and circle the same?	precision: 0.0665
+Query: is it ivys or ivies?	precision: 0.2965
+Query: are dignity and respect the same thing?	precision: 0.329
+Query: is gasp an example of onomatopoeia?	precision: 0.0015
+Query: what does it mean when a guy says no pressure?	precision: 0.257
+Query: is wtf an acronym or initialism?	precision: 0.3615
+Query: what is the difference between retro and vintage style?	precision: 0.428
+Query: what is the difference between one quotation mark and two?	precision: 0.2925
+Query: what are bold and italics examples of?	precision: 0.3745
+Query: what is the difference between a public figure and a celebrity?	precision: 0.03
+Query: is it holidays or holiday's?	precision: 0.2325
+Query: are appetizers and starters the same thing?	precision: 0.057
+Query: are plot and storyline the same thing?	precision: 0.313
+Query: are either of you grammar?	precision: 0.1825
+AP: 0.24514599999999978

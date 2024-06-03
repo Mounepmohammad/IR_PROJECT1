@@ -1,0 +1,501 @@
+Query: what is the difference between a college and an academy?	map_score: 0.023
+Query: what is the best reply for excuse me?	map_score: 0.4475
+Query: have pp vs have been pp?	map_score: 0.392
+Query: what is the difference between a hard drive and a hard disk?	map_score: 0.181
+Query: how to say i am very interested in a job?	map_score: 0.2085
+Query: what is the difference between expression and idiom?	map_score: 0.291
+Query: date and time are or is?	map_score: 0.155
+Query: can you begin a sentence with while?	map_score: 0.0955
+Query: are descent and ancestry the same?	map_score: 0.054
+Query: what is the difference between present continuous tense and past continuous tense?	map_score: 0.3895
+Query: what is the difference of world and universe?	map_score: 0.4575
+Query: is terse a negative word?	map_score: 0.2745
+Query: your attendance is a must meaning?	map_score: 0.4615
+Query: what is the difference between help and helps?	map_score: 0.2895
+Query: person who always blames someone else?	map_score: 0.4845
+Query: are double contractions grammatically correct?	map_score: 0.026
+Query: do diligence or due diligence?	map_score: 0.041
+Query: a man is a mortal?	map_score: 0.0415
+Query: what is the difference in usage between the words british and english?	map_score: 0.4945
+Query: what is the difference between type and print?	map_score: 0.173
+Query: what is the difference between graphic and graphical?	map_score: 0.382
+Query: have been or had been?	map_score: 0.091
+Query: what is the difference between relation and relationship?	map_score: 0.3345
+Query: what is the difference between give in and give up?	map_score: 0.096
+Query: are put in place meaning?	map_score: 0.1265
+Query: what is 1st 2nd and 3rd base in dating?	map_score: 0.4865
+Query: is to vs has to?	map_score: 0.3985
+Query: what is the difference between high and low notes?	map_score: 0.0585
+Query: what is the difference between good on you and good for you?	map_score: 0.345
+Query: what is the difference between good noon and good afternoon?	map_score: 0.302
+Query: what is the difference between the word god and lord?	map_score: 0.1375
+Query: what is the difference between particle and particulate?	map_score: 0.3075
+Query: are changed vs have changed?	map_score: 0.3605
+Query: what is the difference between bragging and boasting?	map_score: 0.105
+Query: are semicolon and dash the same?	map_score: 0.283
+Query: what is the difference between what and which?	map_score: 0.099
+Query: is flustered a real word?	map_score: 0.4985
+Query: what is the difference of a few and few?	map_score: 0.4685
+Query: do novels have to be fiction?	map_score: 0.4225
+Query: are nomenclature and terminology the same?	map_score: 0.2245
+Query: is 25 years half a century?	map_score: 0.135
+Query: what does it mean when someone is not in the mood?	map_score: 0.405
+Query: is it faq or faqs?	map_score: 0.2815
+Query: what is the difference between overwhelmed and whelmed?	map_score: 0.1285
+Query: what is the difference between past continuous and present perfect?	map_score: 0.2575
+Query: what is the difference between a living room and a parlor?	map_score: 0.2205
+Query: can x be a vowel?	map_score: 0.2065
+Query: is the disk drive the hard drive?	map_score: 0.233
+Query: what is the difference between the poor and the needy?	map_score: 0.3845
+Query: what does it mean when someone says they want to do you?	map_score: 0.093
+Query: what is the difference between ledger and account?	map_score: 0.4235
+Query: are afraid and fear the same thing?	map_score: 0.108
+Query: what is the difference between concentration focus?	map_score: 0.088
+Query: what is the difference between base and based?	map_score: 0.416
+Query: what is the difference between a motor and an engine in a car?	map_score: 0.4745
+Query: what is the difference between workout and exercise?	map_score: 0.294
+Query: a man who has many lovers?	map_score: 0.122
+Query: will the shades of pemberley be thus polluted?	map_score: 0.102
+Query: is layperson a derogatory term?	map_score: 0.49
+Query: what is the difference of hypothetical and theoretical?	map_score: 0.024
+Query: is duh a bad word?	map_score: 0.382
+Query: do you mind if i response?	map_score: 0.1675
+Query: what is the difference between enhanced and improved?	map_score: 0.417
+Query: what is the difference between types and kinds?	map_score: 0.118
+Query: are slacks and suit pants the same?	map_score: 0.0375
+Query: what is it called when someone changes their mind a lot?	map_score: 0.4255
+Query: is anniversary just for marriage?	map_score: 0.2455
+Query: are salty and savory the same?	map_score: 0.037
+Query: how much is 15 hundred?	map_score: 0.1115
+Query: why are wolverhampton wanderers called wanderers?	map_score: 0.2875
+Query: are riding the hobby horse?	map_score: 0.0195
+Query: a guy who asks a lot of questions?	map_score: 0.0245
+Query: what is the difference between working out and exercising?	map_score: 0.1825
+Query: has told or had told?	map_score: 0.2325
+Query: what is the difference between a cream and creme?	map_score: 0.484
+Query: what is the difference between a lip reader and a lipspeaker?	map_score: 0.016
+Query: is naff a swear word?	map_score: 0.3285
+Query: how are circumference and perimeter different?	map_score: 0.374
+Query: a guy who only cares about money?	map_score: 0.19
+Query: what is the difference of chest and trunk?	map_score: 0.403
+Query: what is the difference between excuse you and excuse me?	map_score: 0.4755
+Query: can obvious be used as a noun?	map_score: 0.2875
+Query: are you angry at me meaning?	map_score: 0.044
+Query: is lunch dinner or supper?	map_score: 0.086
+Query: what are the layers of an onion?	map_score: 0.1505
+Query: what is it called when you believe there is a higher power?	map_score: 0.055
+Query: what is the difference between prison and jail uk?	map_score: 0.0805
+Query: what is difference between leaving and going?	map_score: 0.1415
+Query: what is difference between belief and trust?	map_score: 0.255
+Query: what is the difference between stem and trunk?	map_score: 0.358
+Query: is idioms and phrases are same?	map_score: 0.1035
+Query: are phrases and idioms the same?	map_score: 0.4025
+Query: what is the meaning of the root word vi?	map_score: 0.2735
+Query: what do slacks look like?	map_score: 0.2615
+Query: what is the difference between warranty and guarantee?	map_score: 0.1115
+Query: dedication and commitment are they the same?	map_score: 0.0835
+Query: what is the difference between ideal and optimal?	map_score: 0.3425
+Query: what is the difference between sport play and game?	map_score: 0.4825
+Query: are you a mouse or a man?	map_score: 0.4285
+Query: answer to how was it going?	map_score: 0.478
+Query: what is the difference between family name and last name?	map_score: 0.211
+Query: whom u want to talk?	map_score: 0.141
+Query: is i personally correct grammar?	map_score: 0.187
+Query: what is the difference between stand up?	map_score: 0.0295
+Query: whom to follow up with?	map_score: 0.1785
+Query: is toast countable or uncountable?	map_score: 0.384
+Query: what is the difference between deputy and vice?	map_score: 0.1775
+Query: what is the difference between of guarantee and warranty?	map_score: 0.067
+Query: what are positive and negative questions?	map_score: 0.0195
+Query: is not a fan of meaning?	map_score: 0.084
+Query: what is positive negative and neutral?	map_score: 0.07
+Query: are the shades of pemberley?	map_score: 0.0265
+Query: can you begin a sentence with regretfully?	map_score: 0.297
+Query: is gosh a real word?	map_score: 0.087
+Query: to is preposition or not?	map_score: 0.2375
+Query: what is the difference between cunning and wily?	map_score: 0.28
+Query: what is it called when you always want to be right?	map_score: 0.285
+Query: is no worries proper english?	map_score: 0.1765
+Query: what is the difference between indication and indicator?	map_score: 0.445
+Query: is these ones correct english?	map_score: 0.136
+Query: what is the difference between being selfish and self centered?	map_score: 0.318
+Query: are speeches written in first person?	map_score: 0.1555
+Query: has took or has taken?	map_score: 0.3775
+Query: what is the difference between jargon and technical terminology?	map_score: 0.209
+Query: what is the difference between internet and online?	map_score: 0.343
+Query: is it grammatically correct to say thank you so very much?	map_score: 0.4785
+Query: what is the difference between single quotation marks and double quotation marks?	map_score: 0.4415
+Query: what is the difference between class and group?	map_score: 0.433
+Query: how to answer when someone ask how's it going?	map_score: 0.428
+Query: what is the difference between a series and a season?	map_score: 0.4045
+Query: what is the difference between cook and cooker?	map_score: 0.0395
+Query: can you begin a sentence with nor?	map_score: 0.036
+Query: what does work me mean?	map_score: 0.2465
+Query: what is native level english?	map_score: 0.2855
+Query: is nowadays formal or informal?	map_score: 0.2115
+Query: what is the difference between sport game play competition and recreation?	map_score: 0.3135
+Query: can yesterday be an adverb?	map_score: 0.3235
+Query: what is the difference between possible and feasible?	map_score: 0.4195
+Query: is exactly the same grammatically correct?	map_score: 0.0535
+Query: what is the difference between multi and multiple?	map_score: 0.0225
+Query: is it suppose to do or supposed to do?	map_score: 0.337
+Query: what is the difference between time and times?	map_score: 0.4125
+Query: what is difference between powerless and helpless?	map_score: 0.0055
+Query: what is it called when you want more?	map_score: 0.2205
+Query: what is it called when someone always disagrees?	map_score: 0.2005
+Query: is bfe a real place?	map_score: 0.112
+Query: what is the difference between being practical and pragmatic?	map_score: 0.139
+Query: what does it mean when you call someone your lover?	map_score: 0.26
+Query: has pp has been pp?	map_score: 0.1735
+Query: what are the difference between type and category?	map_score: 0.253
+Query: what is the difference between miss and ma'am?	map_score: 0.3975
+Query: what is the difference series or season?	map_score: 0.2135
+Query: can you start a sentence with especially?	map_score: 0.3255
+Query: what is it called when someone always thinks negative?	map_score: 0.2035
+Query: would be vs will be?	map_score: 0.1945
+Query: what is a person that is always negative?	map_score: 0.409
+Query: what are you doing in indirect speech?	map_score: 0.399
+Query: what is the difference between evangelical and evangelism?	map_score: 0.487
+Query: what is the difference between met and meet?	map_score: 0.48
+Query: has get or has got?	map_score: 0.0195
+Query: are symbols and metaphors the same thing?	map_score: 0.354
+Query: is much singular or plural?	map_score: 0.3205
+Query: what is the difference between clean and clear?	map_score: 0.47
+Query: what do you answer when someone says what's up?	map_score: 0.461
+Query: 2 am is morning or night?	map_score: 0.4
+Query: what is the difference between lunch and supper?	map_score: 0.082
+Query: are you nuts meaning etymology?	map_score: 0.229
+Query: has got or has gotten?	map_score: 0.1285
+Query: what is the difference between describe and explain?	map_score: 0.397
+Query: what is the difference between target aim and goal?	map_score: 0.4405
+Query: can you begin a sentence with furthermore?	map_score: 0.4265
+Query: what is the difference between aim at and aim to?	map_score: 0.384
+Query: what does it mean when someone says you lot?	map_score: 0.1915
+Query: your attendance is of great importance?	map_score: 0.3585
+Query: what is the difference between phonetics and phonemics?	map_score: 0.0465
+Query: what is the difference between in and with?	map_score: 0.0575
+Query: what is the difference between term and tenure?	map_score: 0.1455
+Query: what does breaking hearts and taking names mean?	map_score: 0.3295
+Query: what is the difference between i don't mind and i don't care?	map_score: 0.386
+Query: what is the difference between man human and person?	map_score: 0.118
+Query: what is the difference between dominant and predominant?	map_score: 0.293
+Query: is 1 am considered morning or night?	map_score: 0.178
+Query: what is the difference between an area and a zone?	map_score: 0.125
+Query: is milquetoast a bad word?	map_score: 0.0715
+Query: what is the difference between class and course?	map_score: 0.492
+Query: can especially start a sentence?	map_score: 0.404
+Query: all is or all are what is correct?	map_score: 0.4305
+Query: what is the difference between the word little and small?	map_score: 0.3315
+Query: what are the difference between good and fine?	map_score: 0.2285
+Query: why are they called ggs?	map_score: 0.0485
+Query: what is difference between opacity and opaque?	map_score: 0.0485
+Query: what is the difference of theory and theorem?	map_score: 0.199
+Query: reply of hope you are doing great?	map_score: 0.258
+Query: what are words with silent letters called?	map_score: 0.3575
+Query: i has been or i have been?	map_score: 0.3265
+Query: what is the difference between genuine and original?	map_score: 0.3745
+Query: is zealot a bad word?	map_score: 0.037
+Query: what does it mean when someone asks what do you want from me?	map_score: 0.431
+Query: can example be a verb?	map_score: 0.1565
+Query: what does it mean when someone says i feel you?	map_score: 0.346
+Query: is tushy an english word?	map_score: 0.323
+Query: is drink you under the table?	map_score: 0.328
+Query: what is the difference between single and double quotation marks?	map_score: 0.492
+Query: are humble and modest synonyms?	map_score: 0.2955
+Query: what is the difference between slum and ghetto?	map_score: 0.1085
+Query: is no capitalized in a title?	map_score: 0.246
+Query: what does it mean when someone says sweet surrender?	map_score: 0.0375
+Query: are you a man or a mouse?	map_score: 0.112
+Query: are opened or are open?	map_score: 0.2105
+Query: what is difference between magnitude and size?	map_score: 0.226
+Query: is as of late correct grammar?	map_score: 0.235
+Query: surnames that are also words?	map_score: 0.133
+Query: what is it called when someone is too skinny?	map_score: 0.047
+Query: what is the difference between labour and labourer?	map_score: 0.238
+Query: is enough or are enough?	map_score: 0.1595
+Query: is it grammatically correct to say my bad?	map_score: 0.1955
+Query: what the difference between group and community?	map_score: 0.2335
+Query: who says otay in the little rascals?	map_score: 0.173
+Query: what is the difference between service and services?	map_score: 0.25
+Query: why is awesome good and awful bad?	map_score: 0.1455
+Query: are inflection and intonation the same?	map_score: 0.3475
+Query: is g capital in god?	map_score: 0.001
+Query: what is the difference between so far and by far?	map_score: 0.3245
+Query: definition of someone who knows what they want?	map_score: 0.1885
+Query: is blatantly obvious grammatically correct?	map_score: 0.353
+Query: what is difference between british and english?	map_score: 0.0275
+Query: is gobbledygook a bad word?	map_score: 0.023
+Query: what is the difference between a grade and degree?	map_score: 0.2885
+Query: what is a series of two books called?	map_score: 0.343
+Query: do you eat or drink soup?	map_score: 0.4965
+Query: what is the difference between purpose and aim in research?	map_score: 0.178
+Query: what is the difference between less and less than?	map_score: 0.3135
+Query: must of or must have?	map_score: 0.287
+Query: is it gonna or gotta?	map_score: 0.4155
+Query: is i wonder a question?	map_score: 0.135
+Query: how are you doing vs how are you?	map_score: 0.3545
+Query: you are thick in the head meaning?	map_score: 0.2175
+Query: is 2 in the morning am or pm?	map_score: 0.395
+Query: is i plural or singular?	map_score: 0.152
+Query: what is the biblical meaning of quiver?	map_score: 0.3775
+Query: answer of do you mind?	map_score: 0.493
+Query: what is the difference between pace and speed in running?	map_score: 0.4605
+Query: has not or have not?	map_score: 0.3815
+Query: is it x against y?	map_score: 0.165
+Query: we have took or taken?	map_score: 0.023
+Query: answer of how do you do?	map_score: 0.3095
+Query: is jibe a bad word?	map_score: 0.2105
+Query: what is the difference between a jacket and a coat?	map_score: 0.31
+Query: is bogus a formal word?	map_score: 0.293
+Query: what is the meaning of first quality?	map_score: 0.03
+Query: can we begin a sentence with for?	map_score: 0.1415
+Query: are tags and plates the same thing?	map_score: 0.3685
+Query: whom for non living things?	map_score: 0.2415
+Query: night 2 is am or pm?	map_score: 0.2725
+Query: what is the difference between goal and target?	map_score: 0.334
+Query: what is the difference between article and research?	map_score: 0.1405
+Query: what is the difference between measure and measurement?	map_score: 0.0755
+Query: days of the week are nouns?	map_score: 0.4465
+Query: is it diner or cafe?	map_score: 0.0695
+Query: what is the difference between sleeping and asleep?	map_score: 0.2495
+Query: what is difference between warranty and guarantee?	map_score: 0.372
+Query: what are the difference between phonetics and phonemics?	map_score: 0.4865
+Query: what is the difference between limited and delimited?	map_score: 0.3235
+Query: can you begin a sentence with hence?	map_score: 0.0545
+Query: what is the difference between everyday and every other day?	map_score: 0.4835
+Query: what is it called when you question your faith?	map_score: 0.4065
+Query: is spill the tea an idiom?	map_score: 0.3525
+Query: what is the difference between canadian and american english?	map_score: 0.3375
+Query: is it floor or level?	map_score: 0.3115
+Query: is it grammatically correct to say both of?	map_score: 0.078
+Query: what is the difference between overtones and undertones?	map_score: 0.1815
+Query: 2 into 4 is equal to?	map_score: 0.058
+Query: what is the difference between a catholic cathedral and a basilica?	map_score: 0.401
+Query: what are acts or actions?	map_score: 0.308
+Query: what is the difference between job and employment?	map_score: 0.496
+Query: are ambition and dream the same?	map_score: 0.2865
+Query: can you start a sentence with rather?	map_score: 0.2455
+Query: can you begin a sentence with during?	map_score: 0.067
+Query: answer of hope you are doing good?	map_score: 0.491
+Query: are lord and god the same thing?	map_score: 0.285
+Query: what does the @ symbol mean before a name?	map_score: 0.0475
+Query: x is plotted against y?	map_score: 0.3135
+Query: what is the difference between base form and infinitive?	map_score: 0.0155
+Query: can you begin a sentence with due to?	map_score: 0.458
+Query: what is the difference between god and lord god?	map_score: 0.204
+Query: what is the difference between have and did?	map_score: 0.0605
+Query: what does it mean when someone says what is your good name?	map_score: 0.1265
+Query: what is the difference between verse and stanza in poetry?	map_score: 0.178
+Query: what is the difference between fair and just?	map_score: 0.4825
+Query: what is the difference of geometric and geometrical?	map_score: 0.2685
+Query: answer of how is your study?	map_score: 0.375
+Query: are days of the week adjectives?	map_score: 0.3075
+Query: what is the difference between weight and heft?	map_score: 0.3665
+Query: what is the difference between owing to and due to?	map_score: 0.0505
+Query: can you begin a sentence with myself?	map_score: 0.1695
+Query: what is the difference between abstract and overview?	map_score: 0.238
+Query: how are you doing now meaning?	map_score: 0.008
+Query: have sb do or doing?	map_score: 0.0195
+Query: is it dads or dad�s?	map_score: 0.276
+Query: is owing to a preposition?	map_score: 0.0655
+Query: what is the difference between deputy director and associate director?	map_score: 0.283
+Query: what is the difference between a wise man and a wise guy?	map_score: 0.065
+Query: what is the difference between a shepherd and a sheep herder?	map_score: 0.236
+Query: are films and movies the same thing?	map_score: 0.1745
+Query: what is the difference between a jig and a template?	map_score: 0.035
+Query: is it which or what?	map_score: 0.293
+Query: what is the difference between complex and complicated?	map_score: 0.12
+Query: what is the difference between job work and occupation?	map_score: 0.461
+Query: what are the difference between man and human?	map_score: 0.133
+Query: what is the difference between a metropolis and a city?	map_score: 0.2775
+Query: are toast a countable or uncountable noun?	map_score: 0.0225
+Query: is it often or ofen?	map_score: 0.4585
+Query: where are u put up meaning?	map_score: 0.42
+Query: is trio singular or plural?	map_score: 0.1155
+Query: what is the difference between the parent and parents?	map_score: 0.4595
+Query: what is the difference between a legend and a key on a map?	map_score: 0.2925
+Query: is it grammatically correct to start a sentence with also?	map_score: 0.3065
+Query: my sins are endless meaning?	map_score: 0.3085
+Query: neither nor are or is?	map_score: 0.0785
+Query: what is the difference between essential and quintessential?	map_score: 0.1665
+Query: what is the difference between cinema and theatre?	map_score: 0.1895
+Query: i have just come or came?	map_score: 0.43
+Query: are you upset with me or at me?	map_score: 0.2835
+Query: are or have been grammar?	map_score: 0.203
+Query: are byproducts and waste products the same?	map_score: 0.0875
+Query: is it grammatically correct to start a sentence with then?	map_score: 0.287
+Query: are you based in london meaning?	map_score: 0.0745
+Query: what is the difference between line and file?	map_score: 0.3865
+Query: are or is a range?	map_score: 0.2655
+Query: is me personally correct grammar?	map_score: 0.1005
+Query: why is bce and ce used?	map_score: 0.11
+Query: is thus the same as therefore?	map_score: 0.12
+Query: what is the difference between desktop background and wallpaper?	map_score: 0.1955
+Query: is addicted a real word?	map_score: 0.408
+Query: are engines and motors the same?	map_score: 0.004
+Query: answer of how is your life going?	map_score: 0.275
+Query: anybody can dance or everybody?	map_score: 0.3605
+Query: is a lot plural or singular?	map_score: 0.225
+Query: is invalid a bad word?	map_score: 0.1635
+Query: what is the difference between church basilica and cathedral?	map_score: 0.101
+Query: what nationality are you if you are from afghanistan?	map_score: 0.045
+Query: what does it mean when someone says good for you?	map_score: 0.388
+Query: how to answer the question what is your nationality?	map_score: 0.037
+Query: what does it mean when someone asks who are you?	map_score: 0.167
+Query: what is it called when you date someone younger?	map_score: 0.4075
+Query: what is hash called in english?	map_score: 0.323
+Query: what are you doing in reported speech?	map_score: 0.38
+Query: what is the difference between jobs and occupations?	map_score: 0.212
+Query: what is the difference between usually and normally?	map_score: 0.4415
+Query: is non existent one word?	map_score: 0.314
+Query: what is difference between category and type?	map_score: 0.344
+Query: are lunch and dinner the same thing?	map_score: 0.3815
+Query: are vocation and mission related?	map_score: 0.1775
+Query: why do good things come in threes?	map_score: 0.2535
+Query: what does it mean when someone questions everything?	map_score: 0.3065
+Query: is pizza uncountable or countable?	map_score: 0.209
+Query: are quite and quiet homophones?	map_score: 0.039
+Query: what does it mean when someone says my love?	map_score: 0.4755
+Query: what is the difference between null and void?	map_score: 0.385
+Query: is bravo an italian word?	map_score: 0.0375
+Query: are the shades of pemberley to be thus polluted analysis?	map_score: 0.007
+Query: has written or had written?	map_score: 0.354
+Query: what do you call a lovable person?	map_score: 0.082
+Query: what is the difference between a room and space?	map_score: 0.174
+Query: what does it mean when someone texts just a period?	map_score: 0.176
+Query: what is the difference between personnel and employee?	map_score: 0.298
+Query: can i use btw in email?	map_score: 0.087
+Query: can whereas start a sentence?	map_score: 0.1745
+Query: what is the difference between the word sell and sale?	map_score: 0.4555
+Query: are admitted and accepted the same thing?	map_score: 0.372
+Query: how are empires different from kingdoms?	map_score: 0.079
+Query: what is the difference between as of and as at?	map_score: 0.4175
+Query: is not capitalized in a title?	map_score: 0.229
+Query: are issues and challenges the same?	map_score: 0.0435
+Query: is juxtaposition and oxymoron the same?	map_score: 0.1785
+Query: is it grammatically correct to say done right?	map_score: 0.384
+Query: is it madam or sir?	map_score: 0.005
+Query: have forgot or have forgotten?	map_score: 0.1845
+Query: what is the difference between the words enunciate and pronounce?	map_score: 0.2155
+Query: what is the difference between girl and gurl?	map_score: 0.3385
+Query: what is the difference between routine and programme in fitness?	map_score: 0.3625
+Query: what is the difference between accounting and accountancy?	map_score: 0.2435
+Query: why does pax mean person?	map_score: 0.189
+Query: is it grammatically correct to say on yesterday?	map_score: 0.4955
+Query: can a guy have a maiden name?	map_score: 0.255
+Query: what is the difference between fully and wholly?	map_score: 0.1
+Query: period of 25 years is called?	map_score: 0.2595
+Query: what does it mean when someone says figures?	map_score: 0.282
+Query: what is ganbatte ne in english?	map_score: 0.0885
+Query: do a film or make a film?	map_score: 0.231
+Query: what is the main similarity between the terms monologue and soliloquy?	map_score: 0.4345
+Query: a man who massage is called?	map_score: 0.345
+Query: is uzi a proper noun?	map_score: 0.175
+Query: what is the difference between focus and concentration?	map_score: 0.2495
+Query: what is the meaning of just for your information?	map_score: 0.297
+Query: is it wholistic or holistic?	map_score: 0.4555
+Query: is nana and grandmother the same?	map_score: 0.076
+Query: are commas and dashes interchangeable?	map_score: 0.089
+Query: what is the difference between routine and programme?	map_score: 0.232
+Query: x does not a y make?	map_score: 0.217
+Query: what is the difference between currently and now?	map_score: 0.3435
+Query: is unabashed a negative word?	map_score: 0.428
+Query: scent is the s or c silent?	map_score: 0.118
+Query: how to say you are interested in the position?	map_score: 0.0105
+Query: what is the meaning of just enough?	map_score: 0.1775
+Query: what is the difference between oasis and oases?	map_score: 0.2065
+Query: is waste management a utility?	map_score: 0.01
+Query: what the difference between society and humanity?	map_score: 0.39
+Query: are abc and bbc related?	map_score: 0.3855
+Query: what is the difference between official and officer?	map_score: 0.3915
+Query: what is the difference between an image and a photo?	map_score: 0.384
+Query: can obviously be a noun?	map_score: 0.1185
+Query: have skin in the game synonym?	map_score: 0.372
+Query: is faq singular or plural?	map_score: 0.1025
+Query: a man who provides massage professionally?	map_score: 0.4345
+Query: what the difference between connection and connexion?	map_score: 0.412
+Query: has finally come or came?	map_score: 0.099
+Query: are speed and rate the same?	map_score: 0.371
+Query: what are the pink elephant in the room?	map_score: 0.091
+Query: what is the difference between the middle and center?	map_score: 0.2255
+Query: what is the difference between a power drill and a power screwdriver?	map_score: 0.2095
+Query: are aim and purpose the same?	map_score: 0.256
+Query: what is not to love about you?	map_score: 0.077
+Query: a period of 25 years is called?	map_score: 0.0015
+Query: what is the best reply to get well soon?	map_score: 0.0
+Query: at your earliest convenience is it rude?	map_score: 0.284
+Query: are grammar and spelling the same thing?	map_score: 0.2865
+Query: toyota cars are made in japan grammar?	map_score: 0.195
+Query: how are perimeter and circumference related?	map_score: 0.2435
+Query: what is the difference between past participle and gerund?	map_score: 0.3165
+Query: are starters and appetizers the same thing?	map_score: 0.065
+Query: is naff a bad word?	map_score: 0.1585
+Query: are lb and lbs the same?	map_score: 0.4635
+Query: what is the difference between did you and have you?	map_score: 0.0
+Query: what is the difference between equal and equitable?	map_score: 0.2245
+Query: what are the semi vowels in english alphabet?	map_score: 0.1145
+Query: have an ax to grind origin?	map_score: 0.2875
+Query: fish is it countable or uncountable?	map_score: 0.3595
+Query: what is the difference between single and double parentheses?	map_score: 0.422
+Query: what is the difference between wind speed and wind velocity?	map_score: 0.0
+Query: is ta in the oxford dictionary?	map_score: 0.3925
+Query: how to reply when someone says get well soon?	map_score: 0.3165
+Query: what does it mean when a man says you belong to me?	map_score: 0.0495
+Query: what is the difference between isolated and insulated?	map_score: 0.2405
+Query: what does it mean when someone calls you sunshine?	map_score: 0.0
+Query: is a verb a predicate?	map_score: 0.267
+Query: what are nouns with pictures?	map_score: 0.0
+Query: is chief executive officer capitalized?	map_score: 0.0
+Query: is alright better than okay?	map_score: 0.3555
+Query: what are semi vowel letters?	map_score: 0.0815
+Query: i have just eaten or i just ate?	map_score: 0.0
+Query: is fewer more or less?	map_score: 0.354
+Query: what is the difference between conversion and transformation sentence?	map_score: 0.429
+Query: is it grammatically correct to say thank you so much?	map_score: 0.0955
+Query: what is the difference between media and press?	map_score: 0.4125
+Query: why yep instead of yes?	map_score: 0.3775
+Query: is asinine a bad word?	map_score: 0.1715
+Query: what is the difference between a wedding ceremony and a marriage ceremony?	map_score: 0.0235
+Query: do u say happy halloween?	map_score: 0.286
+Query: what are animals and humans called?	map_score: 0.4265
+Query: is fruit uncountable or countable?	map_score: 0.111
+Query: what are the differences between cinema and theatre?	map_score: 0.0
+Query: what is difference between now and currently?	map_score: 0.3005
+Query: do you plot x against y?	map_score: 0.167
+Query: is it begin or start?	map_score: 0.076
+Query: can neither be used for three?	map_score: 0.188
+Query: a man who cheats is called?	map_score: 0.481
+Query: why are cuss words 4 letters?	map_score: 0.4455
+Query: a person who swears a lot?	map_score: 0.33
+Query: what does it mean when someone says i'm good?	map_score: 0.0
+Query: what is the difference between light off and light out?	map_score: 0.1575
+Query: what is the difference between best and better?	map_score: 0.394
+Query: what is the difference between native language and mother tongue?	map_score: 0.0625
+Query: is 11 am early afternoon?	map_score: 0.3005
+Query: human resources are or is?	map_score: 0.02
+Query: is god a plural or singular?	map_score: 0.4985
+Query: what does it mean when someone says i just love you?	map_score: 0.494
+Query: what is the difference between what about you and how about you?	map_score: 0.351
+Query: 25 years old is called?	map_score: 0.1325
+Query: what does it mean when someone just puts a period?	map_score: 0.0
+Query: what is the difference between leave and go?	map_score: 0.0
+Query: what is the difference between degree and grade?	map_score: 
+Query: am is are was were will be?	map_score: 0.1555
+Query: do i italicize company names?	map_score: 0.0935
+Query: are currently or currently are?	map_score: 0.136
+Query: can you begin a sentence with guess?	map_score: 0.0
+Query: are oval and circle the same?	map_score: 0.2985
+Query: is it ivys or ivies?	map_score: 0.0
+Query: are dignity and respect the same thing?	map_score: 0.016
+Query: is gasp an example of onomatopoeia?	map_score: 0.0665
+Query: what does it mean when a guy says no pressure?	map_score: 0.4755
+Query: is wtf an acronym or initialism?	map_score: 0.153
+Query: what is the difference between retro and vintage style?	map_score: 0.0345
+Query: what is the difference between one quotation mark and two?	map_score: 0.004
+Query: what are bold and italics examples of?	map_score: 0.28
+Query: what is the difference between a public figure and a celebrity?	map_score: 0.188
+Query: is it holidays or holiday's?	map_score: 0.324
+Query: are appetizers and starters the same thing?	map_score: 0.3835
+Query: are plot and storyline the same thing?	map_score: 0.2095
+Query: are either of you grammar?	map_score: 0.1125
+map: 0.244357
